@@ -1,0 +1,1549 @@
+{
+  "generated_at": "2026-05-27T14:16:33.656363+00:00",
+  "report_title": "Investor Mapping pro Praut s.r.o. – Kompletní rešerše tech investorů s dosahem v ČR",
+  "report_meta": "květen 2026 | Pro: Martin Švanda, CEO Praut s.r.o., Cheb | Profil: AI integration & automation consultancy + healthcare SaaS, založeno 2025, pre-seed stage",
+  "tldr": [
+    "Praut by měl prioritně oslovit 6 fondů s nejlepším product/stage fit: Look AI Ventures (jediný čistě AI fond v ČR — dle webu lookai.vc evaluovali 6 000+ AI startupů v 2024), DEPO Ventures (rychlý pre-seed proces přes Angel Syndicate, AI focus), Credo Ventures (pokud bude globální AI ambice a silný tým), Tensor Ventures (deep-tech AI z RRF fondu), Presto Ventures (B2B SaaS, automation) a J&T Ventures (seed €0,5–2,5M); paralelně by měl využít neztrátový dotační kapitál — TAČR SIGMA (sub-program AI4CZ), CzechInvest Technology Incubation (až 4,5M Kč) a v Cheb-regionu Krajské inovační centrum Karlovarského kraje (KIC KK) se Startovacími vouchery.",
+    "Hlavní strukturální realita českého trhu 2024–26: je to silně vztahový trh — bez warm intro přes Czech Founders komunitu, StartupYard demo days, Future Port Prague, případně CVCA networking se top fondům většinou nedostanete. Anglické pitch decky a globální (ne jen CZ/SK) ambice jsou de facto vstupenkou k Credo/Kaya/Presto. Healthcare SaaS má v Česku silný tail-wind (Kaya s Jutro Medical, Credo s Carebot/Upheal), ale fondy chtějí MDR-ready produkt nebo silný klinický partner.",
+    "Konkrétní pořadí oslovení pro Praut: (1) přihláška do CzechInvest Technology Incubation v listopadu 2025 (otevřená dodatečná výzva 100 mil. Kč), (2) demo days StartupYard Batch 16, (3) cold email + LinkedIn na Look AI Ventures (Martin Havlík, Angelo Burgarello) a DEPO Ventures (team@depoventures.cz), (4) warm intro přes Czech Founders komunitu na Credo/Kaya/Presto pro seed (~12 měsíců po prvním revenue), (5) angel runway přes Pavel Bouška (Fazole Ventures), Ondřej Fryc (Reflex), Eduard Kučera (Presto)."
+  ],
+  "key_findings": [
+    {
+      "title": "1) Tržní kontext: české startupy v 2024–25",
+      "preview": "Český VC market vyzrál: pět nových fondů uzavřeno v 2024–25 — Credo Stage 5 (uzavřen single-closing na $88M; The Recursive titulkuje \"Over €74M\"), Kaya Fund V (~€70M), Rockaway Ventures II (per tech.eu, 16. května 2025, \"closed its second fund…at nearly €55 million\"; GP Dušan Zábrodský citován \"We are currently seeing numerous investment opportunities in sectors significantly shaped by global trends and..."
+    },
+    {
+      "title": "2) Tier 1 – mezinárodně relevantní české VC fondy",
+      "preview": "Tabulkový přehled: Credo Ventures, Kaya VC (dříve Enern), Presto Ventures, J&T Ventures"
+    },
+    {
+      "title": "3) Tier 2 – specializované české fondy a Slovensko",
+      "preview": "Tabulkový přehled: Lighthouse Ventures, DEPO Ventures, Nation 1 VC, Look AI Ventures (LAIV) + AI Startup Incubator (AISI)"
+    },
+    {
+      "title": "4) Mezinárodní fondy s portfolio v ČR",
+      "preview": "Index Ventures – stál za Pipedrive, ElevenLabs, Modeinspect, Duvo (Czech founders) – Series A+ ticket, kontakt přes warm intro z portfolia Accel – ElevenLabs, UiPath co-investor – growth"
+    },
+    {
+      "title": "5) Angel investoři aktivní v 2024–26",
+      "preview": "Tabulkový přehled: Eduard Kučera, Ondřej Bartoš, Ondřej Fryc, Pavel Bouška"
+    },
+    {
+      "title": "6) Family offices & qualified-investor fondy",
+      "preview": "Tabulkový přehled: KKCG (Karel Komárek), PPF (PPF Ventures), Penta Investments, J&T Banka / J&T Ventures"
+    },
+    {
+      "title": "7) Corporate VC arms",
+      "preview": "Inven Capital (ČEZ + EIB) – €500M, growth-stage cleantech/smart energy (Neuron Soundware byl jediný CZ deal); ne pro pre-seed AI consultancy O2 Czech Republic – inovační program, ne VC fond v užším smyslu"
+    },
+    {
+      "title": "8) Crowdfunding pro retail / kvalifikované investory",
+      "preview": "Fundlift (Roklen + Rockaway, ČNB-regulated) – minibondy, investiční certifikáty, equity; min. 5 tis. Kč; fee 5% z raise pro úspěšné kampaně; známé kampaně MIWA Crowdberry (ECSP licence NBS, passport ČNB) – equity + debt; 12k+ registrovaných investorů; AUM ~€100M; jedny z nejúspěšnějších českých exity (Footshop 2022, logistické parky 2024)"
+    },
+    {
+      "title": "9) Akcelerátory & inkubátory s investiční aktivitou",
+      "preview": "Tabulkový přehled: StartupYard, CzechInvest Technology Incubation, JIC Brno, i&i Prague"
+    },
+    {
+      "title": "10) Granty & veřejné financování",
+      "preview": "TAČR – program SIGMA, sub-program AI4CZ (Umělá inteligence ve výzkumu, vývoji a inovacích) — osobní náklady, stroje, služby; dlouhodobý výzkum 6–7 let; podání přes prehleddotaci.cz / tacr.cz TAČR – program TREND (Technologičtí lídři + Nováčci) – do 400M Kč; aplikovaný R&D"
+    },
+    {
+      "title": "11) Konference, demo days a kanály pro warm intros",
+      "preview": "Future Port Prague (HUB IX / Avast Foundation) – září, AI/foresight Web Summit Lisbon + Vancouver – CzechInvest delegace 2025 + 2026 (Praut může jet jako Technology Incubation member)"
+    }
+  ],
+  "funds": [
+    {
+      "Fond": "Credo Ventures",
+      "Stage / Ticket": "Pre-seed/seed; iniciální až €5M, follow-on celkem až €10M; Credo Stage 5 ($88M, 2025)",
+      "AI/Auto focus": "IT, internet, AI, healthtech, dev tools",
+      "Klíčoví partneři": "Ondřej Bartoš (Founder & Managing Partner), Jan Habermann, Vladislav Jež, Lukáš Hurych, Maciek Gnutek, Jakub Krikava, Matej Micek, Max Kolowrat-Krakowsky",
+      "Kontakt": "credoventures.com; email format Last@credoventures.com; HQ Karlovo nám. 10, Praha",
+      "Recent dealy 2024–25": "Axoflow (lead, $7M seed Jan 2025), Modeinspect ($3,4M seed Jan 2026), Duvo ($15M seed Dec 2025), Kontext ($10M seed Aug 2025), Supernova ($9,2M Series A 2025), Delta Green (€2M 2025)"
+    },
+    {
+      "Fond": "Kaya VC (dříve Enern)",
+      "Stage / Ticket": "Pre-seed → Series A; iniciální €1–3M, follow-on do €20M; Fund V (~€70M, 2025)",
+      "AI/Auto focus": "Generalist; silně AI, healthtech, dev tools, biotech",
+      "Klíčoví partneři": "Tomáš Obrtáč, Tomáš Pačinda, Pavel Mucha, Martin Rajcan (GPs); Karel Zheng (Partner, ex-founder)",
+      "Kontakt": "kaya.vc; HQ Prague Gate, Türkova 2319/5b",
+      "Recent dealy 2024–25": "Jutro Medical (€12M Series A Mar 2025), E2B ($21M Series A Jul 2025), TopK ($5,5M seed 2025), Supernova ($9,2M Series A 2025), Yoneda Labs, ZetaLabs"
+    },
+    {
+      "Fond": "Presto Ventures",
+      "Stage / Ticket": "Pre-seed/seed; $100K–$3M; Fund II €30M (2022) + Presto Tech Horizons €150M (2024, s CSG)",
+      "AI/Auto focus": "AI, cybersecurity, SaaS, fintech, defence, automation",
+      "Klíčoví partneři": "Přemysl Rubeš (Founder & Managing Partner), Vojtěch Roček, Roman Nováček, Eduard Kučera (Partner), Milan Lupač; Lucie Bresová (Partner Tech Horizons)",
+      "Kontakt": "hello@prestoventures.com; pitch via prestoventures.com; Slovanský dům, Senovážné nám. 869/28, Praha",
+      "Recent dealy 2024–25": "Tur.ai ($1,2M lead 2024), DiffuseDrive ($3,5M seed 2025), Bavovna ($2,7M 2024), Vidar Systems pre-seed 2024, City Pay.io"
+    },
+    {
+      "Fond": "J&T Ventures",
+      "Stage / Ticket": "Seed/Series A; €0,5–2,5M; AUM €40M+",
+      "AI/Auto focus": "Industry-agnostic; SaaS, cybersec, AdTech, RPA, digital",
+      "Klíčoví partneři": "David Polach, Martin Kešner (partners); Zuzana Ondrejová, Jakub Zimola (investment managers)",
+      "Kontakt": "info@jtventures.cz; jtventures.cz",
+      "Recent dealy 2024–25": "Apify (€2,8M Apr 2024, s Reflex), Choice ($2,5M seed Mar 2025), SprayVision (€2M Series A 2024), All Eyes on Screens (€10M Series B Oct 2024), Wultra (€3M Jan 2025), Xund AI (€6M 2025), Supernova ($9,2M 2025)"
+    },
+    {
+      "Fond": "Reflex Capital",
+      "Stage / Ticket": "Seed/Series A; typicky ~€1M ticket",
+      "AI/Auto focus": "B2B SaaS, e-commerce, fintech, AI/produkt",
+      "Klíčoví partneři": "Ondřej Fryc (Managing Partner, ex-Mall.cz), 9 partnerů",
+      "Kontakt": "reflexcapital.com/contact",
+      "Recent dealy 2024–25": "Grid.online (€1,5M lead Feb 2025), Choice ($2,5M 2025), Apify (€2,8M 2024); historicky Productboard (top exit ambition)"
+    },
+    {
+      "Fond": "Rockaway Ventures",
+      "Stage / Ticket": "Late seed / Series A; Fund II ~€55M (per tech.eu, 16. května 2025)",
+      "AI/Auto focus": "AI, deep-tech, defence/dual-use, industrial AI, energy",
+      "Klíčoví partneři": "Dušan Zábrodský, Petr Šmíd (managing partners); Andrea Mrázová",
+      "Kontakt": "rockawayventures.com; rockawaycapital.com",
+      "Recent dealy 2024–25": "Filuta AI ($4,2M lead seed 2025), Cruxo, Culture Pulse; portfolio AMI Labs ($1B seed Yann LeCun 2025 via United Founders)"
+    },
+    {
+      "Fond": "Tensor Ventures",
+      "Stage / Ticket": "Pre-seed/seed; deep-tech; Fund II €50M (Oct 2024) + co-investment fond RRF €50M",
+      "AI/Auto focus": "AI, quantum, biotech, decentralized, software 2.0, space, cleantech",
+      "Klíčoví partneři": "Roman Smola, Martin Drdul, Petr Ulvr (managing partners); Jan Faflík (biotech); Ondřej Ptáček (CFO)",
+      "Kontakt": "tensor.ventures",
+      "Recent dealy 2024–25": "Solvemed, Quantagonia, Pointee, dstack, Stacktape, Contember, QC82; exity: UltimateSuite → ServiceNow, Neuronix AI → Microchip"
+    },
+    {
+      "Fond": "Pale Fire Capital",
+      "Stage / Ticket": "Growth equity / private equity; €1–20M+",
+      "AI/Auto focus": "Internet platforms, e-commerce, energy, AI",
+      "Klíčoví partneři": "Jiří Šmejc, Dušan Šenkypl, Jan Barta (partner), David Holý, Petr Krajíček, Petr Šmida",
+      "Kontakt": "palefirecapital.com",
+      "Recent dealy 2024–25": "Saunia, ROUVY, Aukro, Mubi, LitFin; menší AI/SaaS dealy přes United Founders, N1 Ventures U-Tech"
+    },
+    {
+      "Fond": "Miton",
+      "Stage / Ticket": "Seed/growth; e-commerce, marketplace; 12+ partnerů",
+      "AI/Auto focus": "Consumer, marketplace, retail, AI komponent",
+      "Klíčoví partneři": "Milan Zemánek, Jan Lukačovič, Ondřej Raška + 9 dalších partnerů",
+      "Kontakt": "miton.cz; HQ Jablonec n. N.",
+      "Recent dealy 2024–25": "Firefish (seed 2025), DeepScout, Bookbot (€4M Series A Aug 2024), Sense Arena ($3M 2022)"
+    },
+    {
+      "Fond": "Orbit Capital",
+      "Stage / Ticket": "Late seed / Series A+ / growth; venture debt + growth equity; typicky €3-10M, až €15M",
+      "AI/Auto focus": "CEE/DACH tech & tech-enabled scale-ups, SaaS, AI, venture debt",
+      "Klíčoví partneři": "Radovan Nesrsta, Lukáš Macko, Wiktor Namysł, Jerzy Rozłucki, Pavel Mucha",
+      "Kontakt": "orbitcapital.com; radovan.nesrsta@orbitcapital.com",
+      "Recent dealy 2024–25": "Rohlík, Twisto, ThreatMark, CloudTalk"
+    },
+    {
+      "Fond": "Springtide Ventures / KKCG",
+      "Stage / Ticket": "Series A-C; typicky $1-10M",
+      "AI/Auto focus": "B2B SaaS, cybersecurity, cloud infrastructure, horizontal AI/ML, blockchain",
+      "Klíčoví partneři": "KKCG / Karel Komárek; Springtide Ventures investment team",
+      "Kontakt": "springtide.cz; kkcg.com",
+      "Recent dealy 2024–25": "Primárně Izrael; pro CZ relevantní Aricoma sales-partnership angle"
+    },
+    {
+      "Fond": "Tilia Impact Ventures",
+      "Stage / Ticket": "Seed; €300k-€1.5M; Fund II first close €26M, target €32M",
+      "AI/Auto focus": "Impact, climate, edtech, healthtech, circular economy, people & planet",
+      "Klíčoví partneři": "Silke Horáková, Petr Vítek, Andrew Gray, Pavel Petřek, Emília Mamajová",
+      "Kontakt": "tilia.vc; LinkedIn company/tilia-impact-ventures",
+      "Recent dealy 2024–25": "BioCraft, Arbonics, NOLD, BLISKO, MIWA, DOT Glasses, Munch, Delta Green"
+    },
+    {
+      "Fond": "Y Soft Ventures",
+      "Stage / Ticket": "Pre-seed až Series B; €100k-€1.5M",
+      "AI/Auto focus": "B2B hardware + software, IoT, Industry 4.0, Smart Office, Smart City, AI",
+      "Klíčoví partneři": "Lukáš Konečný (Managing Partner)",
+      "Kontakt": "ysoft.com/ventures",
+      "Recent dealy 2024–25": "VRgineers, Sensoneo, Dronetag, NenoVision, GreyCortex, Sewio, Comprimato"
+    },
+    {
+      "Fond": "Jet Ventures / Jet Investment",
+      "Stage / Ticket": "Industrial-tech / growth; Jet PE fondy €100M+",
+      "AI/Auto focus": "Industrial automation, Industry 4.0, manufacturing tech, AI automation",
+      "Klíčoví partneři": "Igor Fait, Marek Malík, Kamil Krištofory, Marek Chłopek",
+      "Kontakt": "ventures.jetinvestment.cz; jetinvestment.cz",
+      "Recent dealy 2024–25": "Industrial-tech portfolio a PE platformy"
+    },
+    {
+      "Fond": "KB SmartSolutions",
+      "Stage / Ticket": "Post-MVP až growth; fintech/SaaS strategic investments",
+      "AI/Auto focus": "Fintech, banking SaaS, embedded finance, data products",
+      "Klíčoví partneři": "Patrik Nový, Jiří Černý, Zuzana Hollmannová",
+      "Kontakt": "kbsmart.cz; zuzana.hollmannova@kbsmart.cz",
+      "Recent dealy 2024–25": "Upvest, Roger, Lemonero, Enviros, Finbricks, Shoptet, Expando"
+    },
+    {
+      "Fond": "Inovo VC",
+      "Stage / Ticket": "Seed / Series A; €0.5-3M; Fund III €100M",
+      "AI/Auto focus": "SaaS, marketplaces, AI/ML, B2B enterprise, CEE",
+      "Klíčoví partneři": "Tomasz Świeboda, Michał Rokosz, Karol Lasota, Maciej Małysz",
+      "Kontakt": "inovo.vc",
+      "Recent dealy 2024–25": "CEE SaaS and AI/ML"
+    },
+    {
+      "Fond": "OTB Ventures",
+      "Stage / Ticket": "Series A/B; až €15M",
+      "AI/Auto focus": "Deep tech, space, AI, robotics, cybersecurity, enterprise SaaS",
+      "Klíčoví partneři": "Adam Niewinski, Marcin Hejka",
+      "Kontakt": "otb.vc",
+      "Recent dealy 2024–25": "CEE deep-tech growth"
+    },
+    {
+      "Fond": "3TS Capital Partners",
+      "Stage / Ticket": "Series A / growth; avg $5-10M; TCEE IV €111M",
+      "AI/Auto focus": "SaaS, fintech, martech, AI, tech growth in CEE",
+      "Klíčoví partneři": "Pekka Mäki, Daniel Lynch, Markus Fleischer",
+      "Kontakt": "3tscapital.com",
+      "Recent dealy 2024–25": "CEE growth software portfolio"
+    },
+    {
+      "Fond": "Speedinvest",
+      "Stage / Ticket": "Pre-seed/seed; pan-European",
+      "AI/Auto focus": "Fintech, SaaS, deep tech, climate, marketplaces",
+      "Klíčoví partneři": "Vienna-based sector teams",
+      "Kontakt": "speedinvest.com",
+      "Recent dealy 2024–25": "CEE and DACH early-stage tech"
+    },
+    {
+      "Fond": "SMOK Ventures",
+      "Stage / Ticket": "Pre-seed/seed; $100k-$1M",
+      "AI/Auto focus": "AI/ML, software, gaming, CEE + US bridge",
+      "Klíčoví partneři": "Borys Musielak, Diana Koziarska, Paul Bragiel",
+      "Kontakt": "smok.vc",
+      "Recent dealy 2024–25": "CEE software and AI/ML"
+    },
+    {
+      "Fond": "Index Ventures",
+      "Stage / Ticket": "Series A+ / growth; global tier-1",
+      "AI/Auto focus": "Global software, AI, fintech, marketplaces",
+      "Klíčoví partneři": "Jan Hammer (CZ-born), Nina Achadjian, Ilya Fushman",
+      "Kontakt": "indexventures.com",
+      "Recent dealy 2024–25": "Productboard, Rohlík, Mews, Duvo.ai"
+    },
+    {
+      "Fond": "Atomico",
+      "Stage / Ticket": "Series A+ / growth",
+      "AI/Auto focus": "European scaleups, SaaS, AI, marketplaces",
+      "Klíčoví partneři": "Sasha Astafyeva and Atomico investment team",
+      "Kontakt": "atomico.com",
+      "Recent dealy 2024–25": "Rohlík, Mews"
+    },
+    {
+      "Fond": "Earlybird Venture Capital",
+      "Stage / Ticket": "Seed až Series B",
+      "AI/Auto focus": "CEE/TR via Digital East, SaaS, fintech, AI",
+      "Klíčoví partneři": "Cem Sertoğlu, Dilek Dayinlarli",
+      "Kontakt": "earlybird.com",
+      "Recent dealy 2024–25": "CEE and Turkey tech"
+    },
+    {
+      "Fond": "ABB Technology Ventures",
+      "Stage / Ticket": "Corporate venture; strategic industrial tech",
+      "AI/Auto focus": "Industrial automation, energy, robotics, AI",
+      "Klíčoví partneři": "ABB Technology Ventures team",
+      "Kontakt": "global.abb/group/en/technology/ventures",
+      "Recent dealy 2024–25": "Industrial automation and energy tech"
+    }
+  ],
+  "specialized_funds": [
+    {
+      "Fond": "Lighthouse Ventures",
+      "Stage / Ticket": "Pre-seed/seed; €100k–€500k; AUM ~€28M; backed by CZ ESIF Fund-of-Funds",
+      "Sector": "Tech s globální ambicí, CZ-based",
+      "Klíčoví lidé": "Michal Zálešák (Founding & Managing Partner)",
+      "Kontakt": "lighthouseventures.cz"
+    },
+    {
+      "Fond": "DEPO Ventures",
+      "Stage / Ticket": "Pre-seed/seed; €50k–€300k; angel syndicate (DEPO Angels, 150+ angels) + 3 fondy",
+      "Sector": "AI, fintech, healthtech, defence, dual-use, space; CEE+Baltics",
+      "Klíčoví lidé": "Petr Šíma (Co-founder & MP, EBAN board), Michal Ciffra, Kateryna Kovalenko, Jan Krahulík",
+      "Kontakt": "team@depoventures.cz, petr.sima@depoventures.cz; Plynární 10, Praha 7"
+    },
+    {
+      "Fond": "Nation 1 VC",
+      "Stage / Ticket": "Pre-seed/seed; ~€35M AUM, EIF-backed",
+      "Sector": "Fintech, insurtech, AI, e-commerce, customer tech, travel",
+      "Klíčoví lidé": "Petr Šíma a další",
+      "Kontakt": "nation1.vc"
+    },
+    {
+      "Fond": "Look AI Ventures (LAIV) + AI Startup Incubator (AISI)",
+      "Stage / Ticket": "Pre-seed; €50k–€250k iniciálně, follow-on do €1M (AISI program €50k–€1,5M)",
+      "Sector": "Pouze AI (jediný takový fond v ČR; dle lookai.vc \"In 2024, our deal flow exceeded 6,000 evaluated AI startups\")",
+      "Klíčoví lidé": "Martin Havlík (Managing Partner), Daniel Kunz, Pavel Rosendorf, Alexander Brányik, Angelo Burgarello (CIO), Martin Dostál (CSO), Kate Inozemtseva (Head of Scouting)",
+      "Kontakt": "lookai.vc/apply-now; suincubator.ai"
+    },
+    {
+      "Fond": "Czech Founders VC",
+      "Stage / Ticket": "Pre-seed; €50k–€350k",
+      "Sector": "Industry agnostic, founder-first CEE",
+      "Klíčoví lidé": "Václav Pavlečka (Co-founder & MP), Vít Horký, Ivan Kristeľ",
+      "Kontakt": "hello@czechfounders.vc; +420 724 244 989"
+    },
+    {
+      "Fond": "Purple Ventures",
+      "Stage / Ticket": "Seed; €250k–€750k; Fund II €40M (2024)",
+      "Sector": "Energy, HR SaaS, hybrid events, B2B s revenue",
+      "Klíčoví lidé": "Jan Staněk (MP), Jan Davídek, Lukáš Grodl",
+      "Kontakt": "ahoy@purple-ventures.com; Brno"
+    },
+    {
+      "Fond": "JIC Ventures",
+      "Stage / Ticket": "Pre-seed/seed; do €1M; fond €16,3M (2025)",
+      "Sector": "Deep tech, SaaS, advanced technology; CEE focus",
+      "Klíčoví lidé": "Radim Kocourek, Miloš Sochor (managing partners); LPs CTP, Česká spořitelna, Jan Barta, IDEA StatiCa family",
+      "Kontakt": "jic.cz; Brno"
+    },
+    {
+      "Fond": "Air Ventures",
+      "Stage / Ticket": "Late seed/Series A; €200k–€2M",
+      "Sector": "B2B s ARR",
+      "Klíčoví lidé": "rodina marketingu/financí jako partneři",
+      "Kontakt": "airventures.cz"
+    },
+    {
+      "Fond": "Soulmates Ventures",
+      "Stage / Ticket": "Seed; €100k–€1M",
+      "Sector": "Impact, climate, water, sustainable food",
+      "Klíčoví lidé": "",
+      "Kontakt": "soulmatesventures.com"
+    },
+    {
+      "Fond": "ESPIRA Investments",
+      "Stage / Ticket": "Growth; €1–5M; ženské leadership focus",
+      "Sector": "Female-led SMEs",
+      "Klíčoví lidé": "Klára Knapová a kolegyně",
+      "Kontakt": "espirainvestments.com"
+    },
+    {
+      "Fond": "Inven Capital (ČEZ + EIB)",
+      "Stage / Ticket": "Growth, €500M total",
+      "Sector": "Cleantech, smart energy, IoT — ne pre-seed AI consultancy",
+      "Klíčoví lidé": "",
+      "Kontakt": "invencapital.cz"
+    },
+    {
+      "Fond": "Sandberg Capital (SK)",
+      "Stage / Ticket": "Growth PE; mid-cap",
+      "Sector": "IT, retail, telecom; v CZ aktivní",
+      "Klíčoví lidé": "Martin Fedor (managing partner)",
+      "Kontakt": "sandbergcapital.com"
+    },
+    {
+      "Fond": "ZAKA VC (SK/CZ)",
+      "Stage / Ticket": "Pre-seed/seed; €50k–€500k; €3M/rok do 10–15 firem",
+      "Sector": "Energy, retail, AI, mobility CEE",
+      "Klíčoví lidé": "",
+      "Kontakt": "zaka.vc"
+    },
+    {
+      "Fond": "Crowdberry (SK/CZ)",
+      "Stage / Ticket": "Equity/debt crowdfunding + Growth One seed fund AUM ~€23M",
+      "Sector": "SME, fintech, healthtech, real estate",
+      "Klíčoví lidé": "Daniel Gašpar (MP), Michal Nešpor, Michal Ondrišek, Peter Bečár (CZ office head)",
+      "Kontakt": "crowdberry.eu"
+    },
+    {
+      "Fond": "Neulogy Ventures (SK)",
+      "Stage / Ticket": "Early stage; AUM ~€20M",
+      "Sector": "Tech CEE",
+      "Klíčoví lidé": "",
+      "Kontakt": "neulogy.vc"
+    },
+    {
+      "Fond": "V-Sharp Venture Studio",
+      "Stage / Ticket": "Idea/pre-seed/seed/Series A; až €1M vlastního kapitálu",
+      "Sector": "Fintech, logistika, e-commerce, venture studio",
+      "Klíčoví lidé": "Praha venture studio team",
+      "Kontakt": "vsharp.vc"
+    },
+    {
+      "Fond": "Vesna Capital",
+      "Stage / Ticket": "Pre-seed/seed; $50k-$200k",
+      "Sector": "CEE + Nordics, sector-agnostic",
+      "Klíčoví lidé": "Andriy Fedoriv, Viacheslav Klymov, Volodymyr Popereshniuk",
+      "Kontakt": "vesna.capital"
+    },
+    {
+      "Fond": "Neulogy Ventures",
+      "Stage / Ticket": "Seed / Series A",
+      "Sector": "CZ/SK tech",
+      "Klíčoví lidé": "Neulogy Ventures team",
+      "Kontakt": "neulogy.vc"
+    },
+    {
+      "Fond": "Karma Ventures",
+      "Stage / Ticket": "Late seed / Series A",
+      "Sector": "European deep tech, often co-invests with Inven Capital",
+      "Klíčoví lidé": "Tallinn-based investment team",
+      "Kontakt": "karma.vc"
+    },
+    {
+      "Fond": "Market One Capital",
+      "Stage / Ticket": "Pre-seed/seed; €200k-€2M initial, až €8M total",
+      "Sector": "Marketplaces, network effects, EU",
+      "Klíčoví lidé": "Marcin Kurek, Marcin Zabielski",
+      "Kontakt": "moc.vc"
+    },
+    {
+      "Fond": "Fil Rouge Capital",
+      "Stage / Ticket": "Pre-seed/seed",
+      "Sector": "SEE/CEE tech generalist",
+      "Klíčoví lidé": "Julien Coustaury",
+      "Kontakt": "filrougecapital.com"
+    },
+    {
+      "Fond": "Genesis Capital",
+      "Stage / Ticket": "Lower mid-market growth/buyout; €10-25M, growth equity €1-4M",
+      "Sector": "Manufacturing, business services, tech-enabled services",
+      "Klíčoví lidé": "Ondřej Vičar, Martin Viliš, Radan Hanzl, Tomáš Sýkora",
+      "Kontakt": "genesis.cz; +420 271 740 207"
+    },
+    {
+      "Fond": "ARX Equity Partners",
+      "Stage / Ticket": "Later-stage MBO/MBI; EV €10-50M",
+      "Sector": "CEE private equity, tech-enabled businesses",
+      "Klíčoví lidé": "Brian Wardrop, Michal Aron, Martin Medo",
+      "Kontakt": "arxequity.com"
+    },
+    {
+      "Fond": "Mid Europa Partners",
+      "Stage / Ticket": "Large PE; €50-300M equity, EV €100M-€1.5B",
+      "Sector": "Healthcare, tech, services, consumer",
+      "Klíčoví lidé": "Robert Knorr, Matthew Strassberg, Viktorie Habánová",
+      "Kontakt": "mideuropa.com"
+    },
+    {
+      "Fond": "Hartenberg Capital",
+      "Stage / Ticket": "PE / forever investor; EV €40-200M",
+      "Sector": "E-commerce, healthcare, real estate, services",
+      "Klíčoví lidé": "Jozef Janov, Libor Němeček; owners Andrej Babiš / Janov family",
+      "Kontakt": "hartenbergcapital.com"
+    },
+    {
+      "Fond": "R2G",
+      "Stage / Ticket": "Multi-family office, growth/private equity",
+      "Sector": "Consumer, tech-enabled, selected growth deals; backed Rohlík",
+      "Klíčoví lidé": "Oldřich Šlemr, Pavel Baudiš, Eduard Kučera",
+      "Kontakt": "r2g.cz"
+    },
+    {
+      "Fond": "PPF Group",
+      "Stage / Ticket": "Strategic/M&A, not dedicated VC",
+      "Sector": "Telecom, banking, biotech, media; B2B partnership angle",
+      "Klíčoví lidé": "Jiří Šmejc",
+      "Kontakt": "ppf.eu"
+    },
+    {
+      "Fond": "Penta Investments",
+      "Stage / Ticket": "Buyout / long-term hold, not startup VC",
+      "Sector": "Healthcare, retail, finance, media; B2B services to portfolio",
+      "Klíčoví lidé": "Marek Dospiva, Jaroslav Haščák, Iain Child",
+      "Kontakt": "pentainvestments.com"
+    },
+    {
+      "Fond": "ESPIRA Investments / EVERITA Capital",
+      "Stage / Ticket": "SME growth; €1-3M; revenue >€2M, positive EBITDA",
+      "Sector": "Education, consumer, healthcare, services, specialty manufacturing",
+      "Klíčoví lidé": "Andrea Ferancová Bartoňová, Emília Mamajová",
+      "Kontakt": "espirainvestments.com; +420 222 263 815"
+    },
+    {
+      "Fond": "Národní rozvojová banka / NRI",
+      "Stage / Ticket": "Public financial instruments, equity/mezzanine via subsidiaries",
+      "Sector": "ESIF, InvestEU, National Development Investments",
+      "Klíčoví lidé": "Tomáš Nidetzký, Pavel Krivonožka",
+      "Kontakt": "nrb.cz"
+    },
+    {
+      "Fond": "EIF / ESIF Fund of Funds",
+      "Stage / Ticket": "LP / fund-of-funds, not direct startup investor",
+      "Sector": "Finances Credo, Lighthouse, Kaya, Nation 1, Orbit, DEPO, Tensor",
+      "Klíčoví lidé": "Patric Gresko, Romana Stanciukaite",
+      "Kontakt": "eif.org"
+    }
+  ],
+  "angels": [
+    {
+      "Angel": "Eduard Kučera",
+      "Pozadí": "Co-founder Avast; Partner Presto Ventures",
+      "Ticket / sektor": "Cybersecurity, AI, B2B SaaS",
+      "Nejlepší kanál": "Přes Presto Ventures (prestoventures.com/pitch)"
+    },
+    {
+      "Angel": "Ondřej Bartoš",
+      "Pozadí": "Co-founder & MP Credo Ventures",
+      "Ticket / sektor": "AI, automation, healthtech",
+      "Nejlepší kanál": "LinkedIn, přes Credo"
+    },
+    {
+      "Angel": "Ondřej Fryc",
+      "Pozadí": "Founder Mall.cz, MP Reflex Capital",
+      "Ticket / sektor": "B2B SaaS, e-commerce, AI/produkt; ~€1M",
+      "Nejlepší kanál": "reflexcapital.com/contact; LinkedIn"
+    },
+    {
+      "Angel": "Pavel Bouška",
+      "Pozadí": "Owner Vafo Group; Partner Fazole Ventures (s Pavlem Přikrylem MP a Lubošem Černým)",
+      "Ticket / sektor": "B2B startupy early stage; syndikace s angels; portfolio Whalebone, SentiSquare, Skladon, Datasapiens",
+      "Nejlepší kanál": "Přes CBAA member page; LinkedIn"
+    },
+    {
+      "Angel": "Jan Barta",
+      "Pozadí": "Partner Pale Fire Capital; ex-ePojištění; LP v JIC Ventures",
+      "Ticket / sektor": "Tech, vzdělávání, ČVUT inovace",
+      "Nejlepší kanál": "LinkedIn (linkedin.com/in/jan-barta-7a3baa1a9/)"
+    },
+    {
+      "Angel": "Hubert Palán",
+      "Pozadí": "Founder Productboard (Credo + Kaya portfolio)",
+      "Ticket / sektor": "Product/AI tools, SaaS",
+      "Nejlepší kanál": "LinkedIn DM (linkedin.com/in/hubertpalan)"
+    },
+    {
+      "Angel": "Jan Čurn",
+      "Pozadí": "Founder Apify; EY Entrepreneur of the Year Prague 2024",
+      "Ticket / sektor": "Web scraping, AI agents, automation, data infra",
+      "Nejlepší kanál": "LinkedIn; Czech Founders komunita"
+    },
+    {
+      "Angel": "Roman Staněk",
+      "Pozadí": "Founder GoodData (SF)",
+      "Ticket / sektor": "BI/analytics, agentic apps",
+      "Nejlepší kanál": "LinkedIn (méně aktivní jako angel)"
+    },
+    {
+      "Angel": "Michal Pěchouček",
+      "Pozadí": "Ex-CTO Avast/Gen; co-founder Cognitive Security (→Cisco); GP & Head of AI Practice u Evolution Equity Partners (od 2024); rektor-elect ČVUT (Feb 2026)",
+      "Ticket / sektor": "AI/Cybersecurity – Series A+ ($5M+) přes Evolution; jako mentor pro pre-seed přes ČVUT",
+      "Nejlepší kanál": "evolutionequity.com/team/michal-pechoucek/"
+    },
+    {
+      "Angel": "Václav Pavlečka",
+      "Pozadí": "Co-founder & MP Czech Founders VC / United Founders VC",
+      "Ticket / sektor": "Pre-seed agnostic",
+      "Nejlepší kanál": "hello@czechfounders.vc; Disraptors Summit"
+    },
+    {
+      "Angel": "Josef Průša",
+      "Pozadí": "Founder Prusa Research",
+      "Ticket / sektor": "Hardware/manufacturing; LP v N1 Ventures U-Tech ukrajinský fond",
+      "Nejlepší kanál": "LinkedIn"
+    },
+    {
+      "Angel": "Libor Winkler",
+      "Pozadí": "RSJ ex-CEO; LP v N1 Ventures U-Tech",
+      "Ticket / sektor": "Fintech, capital markets",
+      "Nejlepší kanál": "LinkedIn"
+    },
+    {
+      "Angel": "Tomáš Čupr",
+      "Pozadí": "Founder Rohlik (unicorn)",
+      "Ticket / sektor": "E-commerce, marketplace; mentor v Kaya",
+      "Nejlepší kanál": "LinkedIn"
+    },
+    {
+      "Angel": "Michal Šimek (Sewio), Jan Neuman (NenoVision)",
+      "Pozadí": "LPs v JIC Ventures",
+      "Ticket / sektor": "Hardware/IoT/AI",
+      "Nejlepší kanál": "LinkedIn"
+    },
+    {
+      "Angel": "Karel Obluk",
+      "Pozadí": "CBAA President; Partner Evolution Equity Partners",
+      "Ticket / sektor": "Cybersecurity, AI, B2B software",
+      "Nejlepší kanál": "LinkedIn / CBAA"
+    },
+    {
+      "Angel": "Ondřej Tomek",
+      "Pozadí": "Co-founder Miton; Impulse / Fazole ecosystem",
+      "Ticket / sektor": "SaaS, cybersecurity, tech",
+      "Nejlepší kanál": "Warm intro přes Miton/Impulse/CzechCrunch"
+    },
+    {
+      "Angel": "Pavel Baudiš",
+      "Pozadí": "Avast co-founder; R2G",
+      "Ticket / sektor": "Cybersecurity, AI, growth tech",
+      "Nejlepší kanál": "R2G / Presto / warm intro"
+    },
+    {
+      "Angel": "Jaroslav Beck",
+      "Pozadí": "Beat Saber co-founder, BottleCap AI CEO",
+      "Ticket / sektor": "AI, creator economy, consumer tech",
+      "Nejlepší kanál": "LinkedIn / AI founder network"
+    },
+    {
+      "Angel": "Václav Dejčmar",
+      "Pozadí": "RSJ Investments co-owner, DOX",
+      "Ticket / sektor": "Tech, culture, innovation",
+      "Nejlepší kanál": "LinkedIn / RSJ network"
+    },
+    {
+      "Angel": "Filip Mikschik",
+      "Pozadí": "Founder StartupJobs.cz",
+      "Ticket / sektor": "HR tech, startup ecosystem, SaaS",
+      "Nejlepší kanál": "LinkedIn / StartupJobs"
+    },
+    {
+      "Angel": "Jan Hammer",
+      "Pozadí": "Czech-born Partner at Index Ventures",
+      "Ticket / sektor": "Series A+ global software, AI, SaaS",
+      "Nejlepší kanál": "Warm intro přes Credo/Kaya/Productboard/Mews"
+    },
+    {
+      "Angel": "Roman Šmucler",
+      "Pozadí": "Asklepion founder, healthcare public figure",
+      "Ticket / sektor": "Healthcare, healthcare-tech",
+      "Nejlepší kanál": "X / professional healthcare network"
+    }
+  ],
+  "accelerators": [
+    {
+      "Program": "StartupYard",
+      "Lokace": "Praha",
+      "Investice": "€40k iniciální / 3 měsíce / 150+ mentorů; equity ~5%; 17 cohorts, 130 startupů; Batch 15 podzim 2025",
+      "Sektor / charakteristika": "Deep tech, AI/ML, IoT, kybersec, blockchain"
+    },
+    {
+      "Program": "CzechInvest Technology Incubation",
+      "Lokace": "celostátní 7 hubů",
+      "Investice": "1,1M Kč (Standard) až 4,5M Kč (Plus) + indirect €20k; rozšířená alokace o 100M Kč v listopadu 2025; 250 startupů cíl 2022–27",
+      "Sektor / charakteristika": "Pre-seed, jakákoli high-tech vč. AI; velmi vhodné pro Praut"
+    },
+    {
+      "Program": "JIC Brno",
+      "Lokace": "Brno",
+      "Investice": "Mentoring + JIC Ventures pre-seed fond",
+      "Sektor / charakteristika": "Deep tech, AI"
+    },
+    {
+      "Program": "i&i Prague",
+      "Lokace": "Praha",
+      "Investice": "Biotech, MedTech, diagnostics",
+      "Sektor / charakteristika": ""
+    },
+    {
+      "Program": "ESA BIC Prague",
+      "Lokace": "Praha",
+      "Investice": "Až €50k space tech",
+      "Sektor / charakteristika": ""
+    },
+    {
+      "Program": "Soulmates Ventures",
+      "Lokace": "Praha",
+      "Investice": "Climate/impact",
+      "Sektor / charakteristika": ""
+    },
+    {
+      "Program": "TopMonks",
+      "Lokace": "Praha",
+      "Investice": "Venture builder (Rossum, fintech, AI)",
+      "Sektor / charakteristika": ""
+    },
+    {
+      "Program": "Founder Institute Prague",
+      "Lokace": "Praha",
+      "Investice": "Equity Collective 2,5%",
+      "Sektor / charakteristika": ""
+    },
+    {
+      "Program": "Akcelerátor VŠEM",
+      "Lokace": "Praha",
+      "Investice": "Studentský/start",
+      "Sektor / charakteristika": ""
+    },
+    {
+      "Program": "Krajské inovační centrum Karlovarského kraje (KIC KK)",
+      "Lokace": "Cheb/Karlovy Vary",
+      "Investice": "Startovací vouchery, Vouchery pro podnikatele II, OP ST",
+      "Sektor / charakteristika": "Domácí region Praut; nové KIC budova ve výstavbě; člen České startupové asociace 2025"
+    },
+    {
+      "Program": "Podnikatelský inkubátor KANOV Cheb",
+      "Lokace": "Cheb",
+      "Investice": "2320 m², 40 kanceláří, MSP/startupy",
+      "Sektor / charakteristika": "Pro Praut domácí infrastruktura"
+    }
+  ],
+  "grants": [
+    {
+      "Program": "CzechInvest Technology Incubation",
+      "Částka": "1,1–4,5M Kč",
+      "Vhodnost pro Praut": "★★★★★ Top priorita"
+    },
+    {
+      "Program": "KIC KK Startovací vouchery",
+      "Částka": "dle aktuální výzvy",
+      "Vhodnost pro Praut": "★★★★ Regionální benefit Cheb"
+    },
+    {
+      "Program": "OP ST (Karlovarský kraj)",
+      "Částka": "dle projektu",
+      "Vhodnost pro Praut": "★★★★ — kraj v transformaci"
+    },
+    {
+      "Program": "TAČR SIGMA / AI4CZ",
+      "Částka": "osobní + stroje + služby",
+      "Vhodnost pro Praut": "★★★★ pokud má Praut akademického partnera (ZČU Plzeň, ČVUT)"
+    },
+    {
+      "Program": "TAČR TREND – Nováčci",
+      "Částka": "menší tickety pro nově",
+      "Vhodnost pro Praut": "★★★"
+    },
+    {
+      "Program": "EIC Pre-Accelerator (widening)",
+      "Částka": "€300–500k",
+      "Vhodnost pro Praut": "★★★ později (TRL 5+)"
+    },
+    {
+      "Program": "EIC Accelerator",
+      "Částka": "€2,5M grant + €0,5–10M equity",
+      "Vhodnost pro Praut": "★★ pro pokročilejší stage"
+    },
+    {
+      "Program": "OP TAK inovační vouchery",
+      "Částka": "menší tickety",
+      "Vhodnost pro Praut": "★★★ quick wins"
+    },
+    {
+      "Program": "Národní rozvojová banka / InvestEU",
+      "Částka": "Dle finančního nástroje",
+      "Vhodnost pro Praut": "Nepřímé financování, garance, úvěry a equity/mezzanine přes NRI; vhodné spíš po prvních tržbách"
+    },
+    {
+      "Program": "ESIF Fund of Funds / EIF",
+      "Částka": "LP kapitál do VC fondů",
+      "Vhodnost pro Praut": "Nepřímý zdroj kapitálu přes Credo, Kaya, Tensor, DEPO, Lighthouse, Nation 1 a Orbit"
+    }
+  ],
+  "action_plan": [
+    {
+      "title": "Fáze 1 – next 30–60 dní (utrácet 0 Kč na získání kapitálu, maximalizovat ekosystémovou viditelnost):",
+      "items": [
+        "Přihlásit Praut do CzechInvest Technology Incubation – listopadová dodatečná výzva 2025 (AI Hub track). Kontakt: tomas.bena@czechinvest.gov.cz nebo přes pre-incubation manager. Cílit Plus variantu (4,5M Kč).",
+        "Registrovat se na KIC KK Startovacích voucherech + projednat OP ST s Vlastimilem Veselým (ředitel KIC KK). Využít infrastrukturu PI KANOV Cheb (2320 m², 40 kanceláří).",
+        "Setkat se s Václavem Pavlečkou (Czech Founders) — hello@czechfounders.vc — pro vstup do Czech Founders komunity (~500 zakladatelů); umožňuje warm intros do Credo/Kaya.",
+        "Připravit anglický pitch deck (max 12 slidů) zaměřený na (a) AI/automation consultancy revenue dnes, (b) healthcare SaaS roadmapu s konkrétním klinickým partnerem, (c) realistický TAM v CEE + EU.",
+        "Sledovat StartupYard Batch 16 přihlášky (otevřou na jaře 2026)."
+      ]
+    },
+    {
+      "title": "Fáze 2 – next 60–120 dní (pre-seed VC outreach):",
+      "items": [
+        "Cold outreach na Look AI Ventures / AISI přes lookai.vc/apply-now + LinkedIn napřímo Martin Havlík a Angelo Burgarello.",
+        "Cold outreach na DEPO Ventures (team@depoventures.cz) — jejich angel syndicate je rychlý pre-seed.",
+        "Pitchnut na TRUESDAYS speed-dating event s Tensor, J&T, Rockaway, Credo, Look AI, DEPO.",
+        "Účast na Web Summit Lisbon listopad 2026 v CzechInvest delegaci (pokud Praut bude součástí Technology Incubation) nebo na SXSW Austin Czech Night v březnu (přes JIC).",
+        "Účast na AI Startup Pitch Contest v rámci AI Days CR (listopad)."
+      ]
+    },
+    {
+      "title": "Fáze 3 – po prvním paying customers / MRR (seed kolo, T+9 měsíců):",
+      "items": [
+        "Warm intros do Credo Ventures (Ondřej Bartoš / Vladislav Jež), Kaya VC (Karel Zheng), J&T Ventures (Zuzana Ondrejová), Presto Ventures (Vojtěch Roček).",
+        "Angel syndicate runway s Eduardem Kučerou, Ondřejem Frycem, Pavlem Bouškou, Janem Čurnem — typický ticket €25k–€100k per angel.",
+        "Pokud má Praut akademického spolupracovníka (CIIRC ČVUT, FEL ČVUT, MUNI FI, ZČU FAV), submit do TAČR SIGMA / AI4CZ."
+      ]
+    },
+    {
+      "title": "Fáze 4 – Series A (T+18–24 měsíců, ~€1M+ ARR):",
+      "items": [
+        "Presto Tech Horizons (pokud zdravotnictví/critical infra), Rockaway Ventures II (€55M, AI/dual-use), Credo Stage 5 lead.",
+        "EIC Accelerator (€2,5M grant + €0,5–10M equity) — vyžaduje TRL 6+, ale je to single biggest non-dilutive cheque v EU.",
+        "Mezinárodní VC: Speedinvest, OTB Ventures, Lead Ventures, Earlybird DWES, 3TS Capital přes warm intros z portfolia.",
+        "Warm intros vždy>>cold email. Nejlepší zdroje: Czech Founders komunita, StartupYard alumni network, CVCA networking, LinkedIn connections z portfolia daného fondu.",
+        "Mluvit globálně, ne česky. Credo, Kaya, Presto, J&T odmítají \"CZ-only\" cases. Praut potřebuje show CEE/EU/US ambici i u healthcare SaaS.",
+        "Pitch deck v angličtině, i pro české fondy. Investoři posílají dál do koinvestorů.",
+        "Konkrétní AI use case + ROI metrika je dnes lepší než \"we're building an AI platform\". Tur.ai, Filuta AI, Maia Labs uspěly s ostrým use case.",
+        "MVP + Letters of Intent > pouze idea. Pre-seed v CZ se dnes dělá po 2–3 LoI a $5–10k MRR z konzultací.",
+        "Vyjít z Cheb je strategická výhoda v rétorice (\"budujeme tech mimo Prahu/Brno\"), ale operačně potřebuje Praut buď satelit v Praze, nebo aktivní cestování na demo days.",
+        "Žádost o \"advisor warrant\" pro významné angels (Kučera, Bouška, Fryc) může otevřít deal flow do Presto/Reflex/Fazole bez plného equity dilutionu."
+      ]
+    }
+  ],
+  "caveats": [
+    "Data fluktuují: Sektorové focus, ticket sizes a partnerská skladba fondů se mění; viz Credo Stage 5 nový (2025), Kaya Fund V (2025), Rockaway II (May 2025), Tensor II (Oct 2024), JIC Ventures (2025). Před oslovením vždy ověřit na webu fondu.",
+    "Některé \"VC partneři\" identity nejsou potvrzeny napřímo z fondu — např. role Eduarda Kučery jako Partner Presto Ventures vychází ze sekundárních zdrojů (vcsheet.com); doporučeno verifikovat přímo s Přemyslem Rubešem.",
+    "AI Startup Incubator (AISI) parametry (€100k–€2M pro 10–30% equity) z uživatelského zadání nebyly potvrzeny — current public sources uvádějí €50k–€1,5M bez veřejně publikované equity %.",
+    "Purple Ventures není striktně family office, ale VC fond spoluvlastněný Purple Group (David Kašper, Jakub Nytra, Filip Řehoř).",
+    "Václav Pavlečka se v prosincových 2025 vystoupeních identifikuje jako MP \"United Founders VC\" (rebrand Czech Founders VC) — doporučeno přímo ověřit.",
+    "Michal Pěchouček je nyní General Partner u Evolution Equity Partners (od 2024), což je US/EU cybersecurity Series A/B fond ($5M+ tickets) — NE vhodný pro pre-seed Praut. Jako mentor/advisor přes ČVUT je však relevantní.",
+    "EIC Accelerator úspěšnost je 6,6% (Oct 2025 cycle dle Rasph EIC analysis). Pro Praut je realistická až po dosažení TRL 6+ a první klinické validace.",
+    "Healthcare SaaS regulace (MDR, certifikace IIa+) představuje 12–18 měsíční překážku, kterou VC fondy reflektují v ticket size + timing — Carebot (StartupYard alumnus) byl první CZ AI startup s MDR IIa.",
+    "Český VC trh je malý — celkový roční deal volume <€500M; mezinárodní VC outreach (Index, Accel, a16z) je realistický až s globální traction.",
+    "KICKK / KIC KK je primárně regional development hub, ne VC; nabízí infrastrukturu + dotační vouchery, ne equity."
+  ],
+  "sources": [
+    {
+      "name": "Credo Ventures",
+      "query": "Credo Ventures portfolio 2024 2025 partners",
+      "url": "https://www.credoventures.com/portfolio",
+      "checked_at": "2026-05-27T14:16:24.271945+00:00",
+      "status": 200,
+      "final_url": "https://www.credoventures.com/portfolio",
+      "title": "Portfolio | Credo",
+      "description": "The fund of choice for CEE founders building generational companies. Having believed in the region",
+      "content_hash": "4948b65e986bd5c28b16d9403ac0b373c558f7a1917af010124b362ab04f5a13",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Kaya VC",
+      "query": "Kaya VC Czech investments AI 2025",
+      "url": "https://www.kaya.vc/",
+      "checked_at": "2026-05-27T14:16:24.272212+00:00",
+      "status": 200,
+      "final_url": "https://www.kaya.vc/",
+      "title": "Kaya | Homepage",
+      "description": "",
+      "content_hash": "283b85c1f6c8077ea7ad64347cb1d9198dc21647ab0570d099ee2f58a266af45",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Presto Ventures",
+      "query": "Presto Ventures Tensor Ventures Czech AI fund",
+      "url": "https://www.prestoventures.com/",
+      "checked_at": "2026-05-27T14:16:24.272303+00:00",
+      "status": 200,
+      "final_url": "https://www.prestoventures.com/",
+      "title": "Presto Ventures | Stepping Up",
+      "description": "",
+      "content_hash": "49a81f7c2f1a57d0b7e35e316177085b7dd65c352924a10c34ce7f0bef98fe77",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Tensor Ventures",
+      "query": "Tensor Ventures Czech AI fund",
+      "url": "https://tensor.ventures/",
+      "checked_at": "2026-05-27T14:16:24.272387+00:00",
+      "status": 200,
+      "final_url": "https://tensor.ventures/",
+      "title": "Tensor Ventures",
+      "description": "New generation venture capital investing into combinatorial technologies",
+      "content_hash": "e5040fc43eba51a0d45e6aeb2a0e37f8975e64dd31fdca9bb066dfb1c8994fc6",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "J&T Ventures",
+      "query": "J&T Ventures Czech investments 2024 2025",
+      "url": "https://www.jtventures.cz/",
+      "checked_at": "2026-05-27T14:16:24.272488+00:00",
+      "status": 200,
+      "final_url": "https://www.jtventures.cz/",
+      "title": "J&T Ventures",
+      "description": "",
+      "content_hash": "00d0246688de2ac2d8fe94e73f239633bbc5290974e10eedf54b9110d8fa23e2",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Reflex Capital",
+      "query": "Ondřej Fryc Reflex Capital investments 2024",
+      "url": "https://www.reflexcapital.com/",
+      "checked_at": "2026-05-27T14:16:24.272544+00:00",
+      "status": 200,
+      "final_url": "https://www.reflexcapital.com/",
+      "title": "Reflex Capital",
+      "description": "Doing business may resemble a jungle survival. You better be prepared and have the right reflexes! It's also useful to have someone with real experience around. We at Reflex Capital are entrepreneurs, just like you. We built our own companies, negotiated with investors, and took part in plenty of transactions.",
+      "content_hash": "688709b67e968aace0116f02e22313ee50c486f1a8f2f9a042e3180229deba45",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "name": "DEPO Ventures",
+      "query": "DEPO Ventures Petr Šíma Ciffra Kovalenko contact",
+      "url": "https://www.depoventures.com/",
+      "checked_at": "2026-05-27T14:16:24.272638+00:00",
+      "status": 200,
+      "final_url": "https://depoventures.com/",
+      "title": "Index | DepoVentures.com",
+      "description": "DEPO VENTURES | We connect the world of investors and startups",
+      "content_hash": "9a3065294e5e00a27f49750e29f7f3778656209c42c65ae1e2627b4642fccdf8",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Lighthouse Ventures",
+      "query": "Lighthouse Ventures Czech investments",
+      "url": "https://lhv.vc/",
+      "checked_at": "2026-05-27T14:16:24.272718+00:00",
+      "status": 200,
+      "final_url": "https://lhv.vc/",
+      "title": "Lighthouse Ventures",
+      "description": "",
+      "content_hash": "4e1854401637653cf0f2cdd54fb1c9e3c3297c02a0e210215c81ff8e5c942075",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Nation 1 VC",
+      "query": "Nation 1 VC Czech portfolio",
+      "url": "https://cvca.cz/nation1/",
+      "checked_at": "2026-05-27T14:16:24.272779+00:00",
+      "status": 200,
+      "final_url": "https://cvca.cz/nation1/",
+      "title": "Nation1 – CVCA",
+      "description": "Adresa Národni 135/14110 00 Praha 1DRN www.nation1.vcinfo@nation1.vc Kontaktní osoba Jaroslav TrojanManaging Partnerjaroslav@nation1.vc Informace o společnosti Objem prostředků ve správě 35 milionů EUR Typ investic pre-seed, seed, startup financing Preferovaná výše jedné investice 50 tisíc – 1,5 milionů EUR Preferovaná odvětví technologie Geografické zaměření Česká republika Počet transakcí v ČR 7 Stávající portfolio v ČR VRgineers, Snuggs, ... Více...",
+      "content_hash": "411f06ad65b6470c252a82ca52f5f6c2c4d6f3e9b2a5896cbb1cf6395160a332",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Rockaway Ventures",
+      "query": "Rockaway Ventures Fund II €55M 2025 close announcement",
+      "url": "https://www.rockawayventures.com/",
+      "checked_at": "2026-05-27T14:16:24.272842+00:00",
+      "status": 200,
+      "final_url": "https://rockawayventures.com/",
+      "title": "Rockaway Ventures",
+      "description": "Helping founders digitalize the economy with focus on sustainability",
+      "content_hash": "7806322748a56bec9362c8b8e5ec15db8e1e7c138aeb324c8cba42e092ed5807",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Pale Fire Capital",
+      "query": "Pale Fire Capital portfolio AI",
+      "url": "https://www.palefirecapital.com/portfolio/",
+      "checked_at": "2026-05-27T14:16:24.272905+00:00",
+      "status": 200,
+      "final_url": "https://palefirecapital.com/portfolio/",
+      "title": "Portfolio - Pale Fire Capital",
+      "description": "Přidejte se k našim lovebrandůmGroupon Naše zkušenost s budováním, agregátorů slevových portálů a vhled do jejich fungování včetně úspěchu českého Slevomatu, který vznikl původně jako kopie Grouponu, nám umožnily se z pozice největšího akcionáře podílet na probíhající transformaci Grouponu - tím je odklon od prodeje zboží k zaměření na lokální zážitky a cestování. Dušan Šenkypl se v roce 2023 stal ... Read More",
+      "content_hash": "cbf7aa197438b3ce2ea852676a560d1caf448ada827243c97fdfc38c2f9ee587",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Miton",
+      "query": "Miton portfolio AI",
+      "url": "https://www.miton.cz/",
+      "checked_at": "2026-05-27T14:16:24.272980+00:00",
+      "status": 200,
+      "final_url": "https://www.miton.cz/",
+      "title": "Miton",
+      "description": "Už 20 let budujeme technologické firmy, které lidem zlepšují život.",
+      "content_hash": "622eaaa1c51fae5c6a9f73a616594a7409945c5892e6ab509296c6988c7bac59",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Sandberg Capital",
+      "query": "Sandberg Capital Slovakia AI investments",
+      "url": "https://www.sandbergcapital.com/",
+      "checked_at": "2026-05-27T14:16:24.360222+00:00",
+      "status": 200,
+      "final_url": "https://sandbergcapital.com/",
+      "title": "Sandberg Capital",
+      "description": "Správcovská spoločnosť, ktorá sa zameriava na investovanie do menších a stredne veľkých spoločností na Slovensku a v regióne strednej a východnej Európy.",
+      "content_hash": "60098d0edb07f0076c42a637e91fca9c84580b81440e56c9d62c2f0c54a5b5d4",
+      "changed": true,
+      "error": ""
+    },
+    {
+      "name": "ZAKA VC",
+      "query": "ZAKA VC Slovakia AI investments",
+      "url": "https://zaka.vc/",
+      "checked_at": "2026-05-27T14:16:24.363445+00:00",
+      "status": 200,
+      "final_url": "https://zaka.vc/",
+      "title": "ZAKA - ZAKA VC",
+      "description": "Pre-seed & seed VC fund, investing in tech startups in US and Europe.",
+      "content_hash": "e0c1fba014676837748b28875f40092958f892385c16f84a3f16e1f0d476e5f8",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Crowdberry",
+      "query": "Crowdberry equity crowdfunding Czech Republic 2025",
+      "url": "https://www.crowdberry.eu/",
+      "checked_at": "2026-05-27T14:16:24.386829+00:00",
+      "status": 429,
+      "final_url": "https://www.crowdberry.eu/",
+      "title": "",
+      "description": "",
+      "content_hash": "",
+      "changed": false,
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Fundlift",
+      "query": "Fundlift equity crowdfunding Czech Republic 2025",
+      "url": "https://www.fundlift.cz/",
+      "checked_at": "2026-05-27T14:16:24.411082+00:00",
+      "status": 200,
+      "final_url": "https://www.fundlift.cz/",
+      "title": "Fundlift",
+      "description": "Investiční crowdfunding. Pro každého. Propojujeme rostoucí firmy s investory. Přidejte se k největší crowdfundingové komunitě v ČR.",
+      "content_hash": "801e0b9690ed284fcdaf80ff98cfbaa618a5db1663a5ce2b5a3058fc45daa8c4",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "StartupYard",
+      "query": "StartupYard accelerator Czech 2025 cohort AI",
+      "url": "https://startupyard.com/",
+      "checked_at": "2026-05-27T14:16:24.449923+00:00",
+      "status": 200,
+      "final_url": "https://startupyard.com/",
+      "title": "StartupYard - Accelerating Startups Since 2011",
+      "description": "Need help with your startup? Apply to StartupYard, Central Europe’s Leading Accelerator for Technology Startups",
+      "content_hash": "eb2267e90c055cacb6de3738d163c2a7271e65cfee8aae64a52d75a0be10e0d9",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "CzechInvest Technology Incubation",
+      "query": "CzechInvest Technology Incubation 2025",
+      "url": "https://www.technologickainkubace.org/",
+      "checked_at": "2026-05-27T14:16:24.469142+00:00",
+      "status": 200,
+      "final_url": "https://technologickainkubace.org/",
+      "title": "Úvod - Technologická Inkubace",
+      "description": "Naším cílem je najít a podpořit 270 inovativních technologických firem a rozvíjet startupový ekosystém v sedmi progresivních sektorech",
+      "content_hash": "f35aa64d2a9747f3b283f01d02ba36994f9214ff310f09d2ef61bca9e7ac5c6d",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "TAČR SIGMA",
+      "query": "TACR TREND SIGMA program grant 2025 startup AI",
+      "url": "https://tacr.gov.cz/program/program-sigma/",
+      "checked_at": "2026-05-27T14:16:24.487981+00:00",
+      "status": 200,
+      "final_url": "https://tacr.gov.cz/program/program-sigma/",
+      "title": "Program SIGMA - Technologická agentura ČR",
+      "description": "Podporujeme výzkum a inovace",
+      "content_hash": "222cfa0758582669152c91e29372f3855733b97d2a97f43c0bd54ee3fd59527f",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "CVCA",
+      "query": "CVCA Czech Private Equity Venture Capital Association chairperson 2025",
+      "url": "https://cvca.cz/",
+      "checked_at": "2026-05-27T14:16:24.514792+00:00",
+      "status": 200,
+      "final_url": "https://cvca.cz/",
+      "title": "O nás – CVCA",
+      "description": "CVCA je asociace, která zastupuje zájmy společností působících v oblasti private equity a venture kapitálu v ČR. Členy asociace je naprostá většina fondů private equity a venture kapitálu působících v České republice (řádní členové). Vedle fondů jsou členy CVCA také společnosti, které v oblasti private equity a venture kapitálu poskytují poradenské služby, a také banky a pojišťovny (přidružení členové). CVCA je členem Invest Europe, evropské asociace private equity ... Více...",
+      "content_hash": "6a9a8ee66fe603697990ebdcc9811674629811ad42c51a65ad6e684351786197",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "JIC Ventures",
+      "query": "JIC Brno venture fund 2025 AI healthtech",
+      "url": "https://www.jic.cz/",
+      "checked_at": "2026-05-27T14:16:24.552630+00:00",
+      "status": 200,
+      "final_url": "https://www.jic.cz/cz/",
+      "title": "JIC - podnikání dává smysl | JIC",
+      "description": "",
+      "content_hash": "514f370b358a8501cca026801248fe8c621bd86003462a73886a85cab8c18fd6",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Look AI Ventures",
+      "query": "Look AI Ventures LAIV Prague managing partners",
+      "url": "https://www.lookai.vc/",
+      "checked_at": "2026-05-27T14:16:24.695420+00:00",
+      "status": 200,
+      "final_url": "https://lookai.vc/",
+      "title": "Look AI Ventures | Investing in early-stage AI startups",
+      "description": "Look AI Ventures (LAIV) is the first investment fund in the Czech Republic focusing exclusively on early-stage AI startups.",
+      "content_hash": "84782728ece3bf2ff9b43bfc7757c1cc056da33a961495259f3a21a3b3d143ee",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Czech Founders VC",
+      "query": "Czech Founders VC fund partners portfolio",
+      "url": "https://www.czechfounders.vc/",
+      "checked_at": "2026-05-27T14:16:24.738081+00:00",
+      "status": 200,
+      "final_url": "https://czechfounders.vc/",
+      "title": "Czech Founders VC",
+      "description": "We help Central European founders who aim high. A pre-seed startup investors by founders to founders.",
+      "content_hash": "94552a25864a1a66489f1219b9385431dc3b7aed2b43529d4f8f639f577b9d6a",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Purple Ventures",
+      "query": "Purple Ventures Davidek Stanek Grodl Czech",
+      "url": "https://www.purple-ventures.com/",
+      "checked_at": "2026-05-27T14:16:24.774407+00:00",
+      "status": 200,
+      "final_url": "https://www.purple-ventures.com/",
+      "title": "Úvod",
+      "description": "Leading VC in CEE region.",
+      "content_hash": "d658e3e5df74de4ea56aa547cf9022beaa00903f0775a2e52de618f33bf883c8",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "KIC KK",
+      "query": "KICKK Karlovarský kraj inovační centrum Cheb startup",
+      "url": "https://kickk.cz/",
+      "checked_at": "2026-05-27T14:16:24.872666+00:00",
+      "status": 200,
+      "final_url": "https://kickk.cz/",
+      "title": "KIC KK – Inovace a podnikání v Karlovarském kraji",
+      "description": "Podporujeme školy, firmy, města i kreativní průmysl v Karlovarském kraji – budujeme inovační ekosystém, který promění nápady v reálný dopad.",
+      "content_hash": "d687f1787608befe615daba80875a0b856154a6227f4b53f972eb058004feec0",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "EIC Accelerator",
+      "query": "EIC Accelerator Czech Republic startup 2024 2025 winners",
+      "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+      "checked_at": "2026-05-27T14:16:24.886118+00:00",
+      "status": 200,
+      "final_url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+      "title": "EIC Accelerator - European Innovation Council - European Commission",
+      "description": "Funding and investments through the EIC Fund for individual start-ups and small companies to develop and scale up game changing innovations",
+      "content_hash": "78e1832a51183bdc28e2e69408c643321dbd37fb0bc39a085fe302afc2ab852c",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Orbit Capital",
+      "query": "Orbit Capital growth debt CEE venture capital partners",
+      "url": "https://www.orbitcapital.com/",
+      "checked_at": "2026-05-27T14:16:24.934101+00:00",
+      "status": 200,
+      "final_url": "https://orbitcapital.com/",
+      "title": "Orbit Capital",
+      "description": "We are here to grow innovative scale-ups",
+      "content_hash": "5067efbc9ce1da635e3e50c1caecd6175840e1231a70d37c67c2eccd3ba73a8d",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Springtide Ventures",
+      "query": "Springtide Ventures KKCG AI SaaS cybersecurity",
+      "url": "https://www.springtide.cz/",
+      "checked_at": "2026-05-27T14:16:25.020376+00:00",
+      "status": 200,
+      "final_url": "https://www.springtide.cz/",
+      "title": "Springtide Ventures s.r.o.",
+      "description": "Springtide Ventures s.r.o. - Member of KKCG group",
+      "content_hash": "8ce0c4c198f43d92137b2ce4634886fec99b71ddfbdac00bc82825e1c92013c5",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "KKCG",
+      "query": "KKCG investment group technology Aricoma Springtide",
+      "url": "https://kkcg.com/",
+      "checked_at": "2026-05-27T14:16:25.056070+00:00",
+      "status": null,
+      "final_url": "https://kkcg.com/",
+      "title": "",
+      "description": "",
+      "content_hash": "",
+      "changed": false,
+      "error": "The read operation timed out"
+    },
+    {
+      "name": "Tilia Impact Ventures",
+      "query": "Tilia Impact Ventures Fund II partners portfolio",
+      "url": "https://tilia.vc/",
+      "checked_at": "2026-05-27T14:16:25.068592+00:00",
+      "status": 200,
+      "final_url": "https://tilia.vc/",
+      "title": "Tilia Impact Ventures",
+      "description": "Tilia Impact Ventures is a Czech impact fund that supports purpose-driven founders and companies with scalable business models and high environmental or social impact potential.",
+      "content_hash": "814d5ea78e026651519d3d6cdcd652db5dc318c17a2d336b633e21113de98931",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Y Soft Ventures",
+      "query": "Y Soft Ventures portfolio partner contact",
+      "url": "https://www.ysoft.com/ventures",
+      "checked_at": "2026-05-27T14:16:25.076993+00:00",
+      "status": 200,
+      "final_url": "https://www.ysoft.com/ventures",
+      "title": "Y Soft Ventures | Y Soft",
+      "description": "At Y Soft Ventures, we invest in innovative B2B hardware and software startups in Central and Eastern Europe, seeking global impact and market validation.",
+      "content_hash": "84cecdce7f0d660f742313a5fbe7cc3811bd74df1f8b77bab1c8ce2fa181aa05",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Jet Ventures",
+      "query": "Jet Ventures industrial tech AI automation",
+      "url": "https://ventures.jetinvestment.cz/",
+      "checked_at": "2026-05-27T14:16:25.082588+00:00",
+      "status": 200,
+      "final_url": "https://ventures.jetinvestment.cz/",
+      "title": "Jet Ventures | Proud part of Jet Investment",
+      "description": "",
+      "content_hash": "db85351d5b3ac0d228e863e29ca4f651dcdcf17f45265789dab1aee5071bede9",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "KB SmartSolutions",
+      "query": "KB SmartSolutions fintech corporate venture portfolio",
+      "url": "https://www.kbsmart.cz/",
+      "checked_at": "2026-05-27T14:16:25.119825+00:00",
+      "status": 200,
+      "final_url": "https://www.kbsmart.cz/",
+      "title": "Stavíme banku budoucnosti | KB Smart Solutions",
+      "description": "Stavíme banku budoucnosti a hledáme odvážné partnery, kteří do toho půjdou s námi",
+      "content_hash": "c8af5d15b8c2e0aa3f5db1c247ec89b761e21b6d953235809aa6e3a072d3debb",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Inovo VC",
+      "query": "Inovo VC partners portfolio CEE SaaS AI",
+      "url": "https://inovo.vc/",
+      "checked_at": "2026-05-27T14:16:25.120809+00:00",
+      "status": 200,
+      "final_url": "https://inovo.vc/",
+      "title": "Inovo",
+      "description": "VC for the most ambitious founders in CEE",
+      "content_hash": "40397913846643a4a97d48e970108886a3d70a13786d20fea5c590700def0fe0",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "OTB Ventures",
+      "query": "OTB Ventures deep tech CEE partners",
+      "url": "https://otb.vc/",
+      "checked_at": "2026-05-27T14:16:25.240050+00:00",
+      "status": 200,
+      "final_url": "https://otb.vc/",
+      "title": "",
+      "description": "",
+      "content_hash": "4509a90d6a1157afc9fcbf695a9d2a8fee0516ec54dcd881d0117530fefcdc12",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "3TS Capital Partners",
+      "query": "3TS Capital Partners CEE SaaS AI fund",
+      "url": "https://3tscapital.com/",
+      "checked_at": "2026-05-27T14:16:25.307754+00:00",
+      "status": 200,
+      "final_url": "https://www.3tscapital.com/",
+      "title": "3TS Capital Partners - Leading European technology-focused venture growth investment adviser",
+      "description": "3TS Capital Partners is one of the leading European technology-focused growth capital and venture capital firms.",
+      "content_hash": "10730d61d79b38b262273c9ce579c8cefd72b1625810195e0e9b84172fc9b555",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Speedinvest",
+      "query": "Speedinvest CEE SaaS AI seed investors",
+      "url": "https://www.speedinvest.com/",
+      "checked_at": "2026-05-27T14:16:25.355064+00:00",
+      "status": 200,
+      "final_url": "https://www.speedinvest.com/",
+      "title": "European & Global Pre-Seed to Growth VC Fund: Backing Tech Startups",
+      "description": "",
+      "content_hash": "91d69a50b0efcfc4f5ee18e49b5a29b03ed85fac1aa0242fa68b75985c4c8e58",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "SMOK Ventures",
+      "query": "SMOK Ventures AI ML CEE partners",
+      "url": "https://www.smok.vc/",
+      "checked_at": "2026-05-27T14:16:25.357700+00:00",
+      "status": 200,
+      "final_url": "https://www.smok.vc/",
+      "title": "SMOK Ventures - Bridging Silicon Valley to CEE",
+      "description": "Bridging Silicon Valley to CEE",
+      "content_hash": "331fb306971fbb8b3357761cf818f851c3f9fed7391e1844eb8473916896ef98",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Index Ventures",
+      "query": "Index Ventures Jan Hammer Czech Productboard Rohlik",
+      "url": "https://www.indexventures.com/",
+      "checked_at": "2026-05-27T14:16:25.434523+00:00",
+      "status": 200,
+      "final_url": "https://www.indexventures.com/",
+      "title": "Index Ventures",
+      "description": "Partnering with exceptional entrepreneurs from SF to NY, London to Tel Aviv, from Seed to IPO.",
+      "content_hash": "a4ef13edcc02c61315657f05dda48799e4c5e2977d2f7e46b2c30356f3a88a7f",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Atomico",
+      "query": "Atomico CEE Rohlik Mews Sasha Astafyeva",
+      "url": "https://atomico.com/",
+      "checked_at": "2026-05-27T14:16:25.464428+00:00",
+      "status": 429,
+      "final_url": "https://atomico.com/",
+      "title": "",
+      "description": "",
+      "content_hash": "",
+      "changed": false,
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "name": "Earlybird Venture Capital",
+      "query": "Earlybird Digital East CEE venture capital partners",
+      "url": "https://earlybird.com/",
+      "checked_at": "2026-05-27T14:16:25.472542+00:00",
+      "status": 200,
+      "final_url": "https://earlybird.com/",
+      "title": "Earlybird",
+      "description": "Founded in 1997, Earlybird is a pan-European VC investor backing tech-enabled companies and investing in their growth and development. Funds include Earlybird, Earlybird Health, Growth Opportunities.",
+      "content_hash": "04447b09aecc5afbf33d87f59ab190bb396c9b72feaed65c94636691dc3c9f47",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "ABB Technology Ventures",
+      "query": "ABB Technology Ventures industrial automation AI",
+      "url": "https://global.abb/group/en/technology/ventures",
+      "checked_at": "2026-05-27T14:16:25.524480+00:00",
+      "status": null,
+      "final_url": "https://global.abb/group/en/technology/ventures",
+      "title": "",
+      "description": "",
+      "content_hash": "",
+      "changed": false,
+      "error": "The read operation timed out"
+    },
+    {
+      "name": "V-Sharp Venture Studio",
+      "query": "V-Sharp Venture Studio Prague startup",
+      "url": "https://www.vsharp.vc/",
+      "checked_at": "2026-05-27T14:16:25.533632+00:00",
+      "status": 200,
+      "final_url": "https://www.vsharp.vc/",
+      "title": "V-Sharp Venture Studio",
+      "description": "Investing in early stage start-ups in logistics, e-commerce, and fintech. Active investor with vast business and operational experience.",
+      "content_hash": "17f5191d39ca6d44da6fa2cdbc59a31a086316a8e8d87786542a8f88fcf3e779",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Air Ventures",
+      "query": "Air Ventures Vaclav Pavlecka Czech VC",
+      "url": "https://www.airventures.eu/",
+      "checked_at": "2026-05-27T14:16:25.620004+00:00",
+      "status": 200,
+      "final_url": "https://airventures.eu/",
+      "title": "Air Ventures",
+      "description": "We are an early-stage venture capital firm based in Prague.",
+      "content_hash": "a746574d176b4a69283ee47042f17bc5e2fbe2035e1a5ab2c2f0acb5c7808162",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Vesna Capital",
+      "query": "Vesna Capital CEE venture capital",
+      "url": "https://vesna.capital/",
+      "checked_at": "2026-05-27T14:16:25.642370+00:00",
+      "status": 200,
+      "final_url": "https://vesna.capital/",
+      "title": "Vesna Capital Investment Fund",
+      "description": "Investment Fund",
+      "content_hash": "05adc00901597e50695e265ee058b1d75cdc597ccbca1af40aae683b83cce6ca",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Neulogy Ventures",
+      "query": "Neulogy Ventures Slovakia Czech portfolio",
+      "url": "https://neulogy.vc/",
+      "checked_at": "2026-05-27T14:16:25.651718+00:00",
+      "status": 200,
+      "final_url": "https://neulogy.vc/",
+      "title": "Neulogy VC - Neulogy VC",
+      "description": "We help entrepreneurs build great companies.",
+      "content_hash": "71551015f9f6dfa0557988c8eec21ec3a76e29684e02b3bd0fe5f1f3af120e9d",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Karma Ventures",
+      "query": "Karma Ventures deep tech Estonia CEE",
+      "url": "https://karma.vc/",
+      "checked_at": "2026-05-27T14:16:25.856908+00:00",
+      "status": 200,
+      "final_url": "https://www.karma.vc/",
+      "title": "KARMA.",
+      "description": "Karma Ventures is a European VC firm investing in late seed and Series A deep-tech software startups, supporting founders with funding and operational expertise.",
+      "content_hash": "c5c83cc00b6dee5bb68319a7a2ada47dc900d6a079076516f0623c3c7f6f706a",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Market One Capital",
+      "query": "Market One Capital marketplaces CEE fund",
+      "url": "https://moc.vc/",
+      "checked_at": "2026-05-27T14:16:25.860046+00:00",
+      "status": 200,
+      "final_url": "https://www.moc.vc/",
+      "title": "Market One Capital",
+      "description": "",
+      "content_hash": "b102b52858fdf9650f09025bc9b429508c59cc91841fa08c38bde5f84a21aca2",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Fil Rouge Capital",
+      "query": "Fil Rouge Capital CEE startup fund",
+      "url": "https://www.filrougecapital.com/",
+      "checked_at": "2026-05-27T14:16:25.889518+00:00",
+      "status": null,
+      "final_url": "https://www.filrougecapital.com/",
+      "title": "",
+      "description": "",
+      "content_hash": "",
+      "changed": false,
+      "error": "<urlopen error [Errno 61] Connection refused>"
+    },
+    {
+      "name": "Genesis Capital",
+      "query": "Genesis Capital Czech private equity technology",
+      "url": "https://www.genesis.cz/",
+      "checked_at": "2026-05-27T14:16:25.903112+00:00",
+      "status": 200,
+      "final_url": "https://www.genesis.cz/",
+      "title": "Genesis Capital | Genesis Capital",
+      "description": "",
+      "content_hash": "4aec5e4cf1a67a7032ed17e429691c63403dbec329553784c0e16931200f339a",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "ARX Equity Partners",
+      "query": "ARX Equity Partners Czech private equity",
+      "url": "https://www.arxequity.com/",
+      "checked_at": "2026-05-27T14:16:25.940220+00:00",
+      "status": 200,
+      "final_url": "https://www.arxequity.com/",
+      "title": "Home - ARX",
+      "description": "We are proud of our 20-year track record building great companies in successful partnerships with business owners and managers.",
+      "content_hash": "7a7d1d4c71f09b445909930f5d3b3e5568c6a2b5764ff9d8b08a6159e6f33abb",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Mid Europa Partners",
+      "query": "Mid Europa Partners Czech office private equity technology",
+      "url": "https://www.mideuropa.com/",
+      "checked_at": "2026-05-27T14:16:25.957513+00:00",
+      "status": 200,
+      "final_url": "https://mideuropa.com/",
+      "title": "Home - MidEuropa",
+      "description": "MidEuropa Investing €50m-€300m of equity in established and growing businesses WE ARE A LEADING EUROPEAN PRIVATE EQUITY INVESTOR WITH DEEP ROOTS IN",
+      "content_hash": "d3c0c652d1b4c51d88fee47e39571441df1248787106d9c08fc39d1cabbe6bda",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Hartenberg Capital",
+      "query": "Hartenberg Capital Czech private equity portfolio",
+      "url": "https://www.hartenbergcapital.com/",
+      "checked_at": "2026-05-27T14:16:26.012470+00:00",
+      "status": 200,
+      "final_url": "https://www.hartenbergcapital.com/",
+      "title": "Hartenberg Capital",
+      "description": "",
+      "content_hash": "2afc7300f4c39e6f2cf4d80530bbf7a8c471b0070c0287646c1909774a679a32",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "R2G",
+      "query": "R2G family office Avast founders Rohlik",
+      "url": "https://www.r2g.cz/",
+      "checked_at": "2026-05-27T14:16:26.071958+00:00",
+      "status": 200,
+      "final_url": "https://r2g.cz/",
+      "title": "Site is undergoing maintenance",
+      "description": "R2G Family",
+      "content_hash": "384485de06690aa620faa621a0c191006abadbf914b89b6f4a6041ae8c47935f",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "PPF Group",
+      "query": "PPF Group technology investment Czech",
+      "url": "https://www.ppf.eu/",
+      "checked_at": "2026-05-27T14:16:26.085049+00:00",
+      "status": 200,
+      "final_url": "https://www.ppf.eu/",
+      "title": "PPF Group | Jsme PPF",
+      "description": "PPF nejsou jen čísla a zisky. Jsou to projekty, které jsme vytvořili. Trhy, které jsme rozvíjeli. PPF jsou lidé. Jsme PPF.",
+      "content_hash": "a588077a1bb9bb6eb42894a336bd0a3f4a27944cecf689b0ebe8bd95b9431867",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Penta Investments",
+      "query": "Penta Investments Czech private equity portfolio",
+      "url": "https://www.pentainvestments.com/",
+      "checked_at": "2026-05-27T14:16:26.159045+00:00",
+      "status": 200,
+      "final_url": "https://www.pentainvestments.com/en/",
+      "title": "Penta Investments",
+      "description": "",
+      "content_hash": "3ae64ab18e24d4b620b97ee2befce81764951c8a53b22b793db4657e57018d4e",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "ESPIRA Investments",
+      "query": "ESPIRA Investments Czech private equity contact",
+      "url": "https://www.espirainvestments.com/",
+      "checked_at": "2026-05-27T14:16:26.172178+00:00",
+      "status": 200,
+      "final_url": "https://www.espirainvestments.com/",
+      "title": "ESPIRA Investments - Private Equity For CEE Entrepreneurs",
+      "description": "ESPIRA Investments is an established private equity fund investing in Central and Eastern European businesses.",
+      "content_hash": "08521564a38b426082a943445daa51a5e8d39b68bd7175eb55cd0f34d7541c76",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "Národní rozvojová banka",
+      "query": "Národní rozvojová banka InvestEU equity mezzanine",
+      "url": "https://www.nrb.cz/",
+      "checked_at": "2026-05-27T14:16:26.299241+00:00",
+      "status": 200,
+      "final_url": "https://www.nrb.cz/",
+      "title": "Úvodní stránka - NRB",
+      "description": "Nevíte, který produkt je pro vás nejvhodnější? Rádi poradíme. Každý si zde najde to svoje Přinášíme kompletní přehled produktů, které nabízíme",
+      "content_hash": "b7726311f62ff2aef5eadceadb3f79da09568ebea65f9289dd63bee813d4cdfe",
+      "changed": false,
+      "error": ""
+    },
+    {
+      "name": "European Investment Fund",
+      "query": "EIF Czech ESIF fund of funds venture capital",
+      "url": "https://www.eif.org/",
+      "checked_at": "2026-05-27T14:16:26.324611+00:00",
+      "status": 200,
+      "final_url": "https://www.eif.org/",
+      "title": "Homepage | EIF | European Investment Fund",
+      "description": "",
+      "content_hash": "d86799f17b73a6b7284442810aa99902fb8568c9fa37c81ba48570d00262085f",
+      "changed": false,
+      "error": ""
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Investor Mapping pro Praut</title>
+    <meta
+      name="description"
+      content="Staticky publikovatelný dashboard investorů, grantů a zdrojů pro Praut s.r.o."
+    />
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <div class="header-copy">
+        <p class="eyebrow">Praut s.r.o. / investor mapping</p>
+        <h1>Investor radar</h1>
+        <p id="reportMeta" class="lede">Načítám aktuální datový přehled...</p>
+      </div>
+      <div class="header-actions">
+        <a class="button button-primary" href="#priority">Prioritní oslovení</a>
+        <button id="exportInvestors" class="button" type="button">Export CSV</button>
+        <a class="button" href="#contacts">Kontakty</a>
+        <a class="button" href="#sources">Zdroje</a>
+      </div>
+    </header>
+
+    <main>
+      <section class="stats-strip" aria-label="Stav dat">
+        <article>
+          <span id="statInvestors">-</span>
+          <p>investorů a fondů</p>
+        </article>
+        <article>
+          <span id="statSources">-</span>
+          <p>sledovaných zdrojů</p>
+        </article>
+        <article>
+          <span id="statChanged">-</span>
+          <p>změněných zdrojů</p>
+        </article>
+        <article>
+          <span id="statUpdated">-</span>
+          <p>poslední refresh</p>
+        </article>
+      </section>
+
+      <section id="tldr" class="section-band">
+        <div class="section-heading">
+          <p class="eyebrow">Executive summary</p>
+          <h2>Co z toho plyne</h2>
+        </div>
+        <div id="tldrCards" class="insight-grid"></div>
+      </section>
+
+      <section id="decision" class="section-band section-band-muted">
+        <div class="section-heading">
+          <p class="eyebrow">Decision board</p>
+          <h2>Kdo má jít první na řadu</h2>
+        </div>
+        <div id="pipelineBoard" class="pipeline-board"></div>
+      </section>
+
+      <section id="priority" class="section-band">
+        <div class="section-heading row-heading">
+          <div>
+            <p class="eyebrow">Pipeline</p>
+            <h2>Prioritní investoři</h2>
+          </div>
+          <div class="toolbar">
+            <label class="search-box">
+              <span>Hledat</span>
+              <input id="searchInput" type="search" placeholder="fond, stage, kontakt..." />
+            </label>
+            <button id="clearSearch" class="button button-light" type="button">Reset</button>
+          </div>
+        </div>
+        <div class="tabs" role="tablist" aria-label="Datové pohledy">
+          <button class="tab is-active" data-view="funds" type="button">Fondy</button>
+          <button class="tab" data-view="angels" type="button">Angels</button>
+          <button class="tab" data-view="grants" type="button">Granty</button>
+          <button class="tab" data-view="actions" type="button">Akční plán</button>
+        </div>
+        <div id="dataView" class="data-view"></div>
+      </section>
+
+      <section id="market" class="section-band">
+        <div class="section-heading">
+          <p class="eyebrow">Kontext</p>
+          <h2>Klíčová zjištění</h2>
+        </div>
+        <div id="findings" class="finding-list"></div>
+      </section>
+
+      <section id="contacts" class="section-band section-band-muted">
+        <div class="section-heading row-heading">
+          <div>
+            <p class="eyebrow">Contact intelligence</p>
+            <h2>Veřejné kontaktní kanály</h2>
+          </div>
+          <div class="toolbar">
+            <button id="exportContacts" class="button button-light" type="button">Export kontaktů</button>
+            <a class="button button-light" href="CONTACT_RESEARCH.md">Otevřít research</a>
+          </div>
+        </div>
+        <div id="contactSummary" class="source-summary"></div>
+        <div id="contactList" class="contact-list"></div>
+      </section>
+
+      <section id="sources" class="section-band section-band-muted">
+        <div class="section-heading row-heading">
+          <div>
+            <p class="eyebrow">Automatická aktualizace</p>
+            <h2>Sledované zdroje</h2>
+          </div>
+          <div class="toolbar">
+            <button id="exportSources" class="button button-light" type="button">Export zdrojů</button>
+            <a class="button button-light" href="data/site-data.json">Otevřít JSON</a>
+          </div>
+        </div>
+        <div id="sourceSummary" class="source-summary"></div>
+        <div id="sourceList" class="source-list"></div>
+      </section>
+
+      <section id="caveats" class="section-band">
+        <div class="section-heading">
+          <p class="eyebrow">Rizika dat</p>
+          <h2>Co ověřit před oslovením</h2>
+        </div>
+        <div id="caveatList" class="caveat-list"></div>
+      </section>
+    </main>
+
+    <dialog id="entityDialog" class="entity-dialog">
+      <div class="dialog-shell">
+        <button id="closeDialog" class="dialog-close" type="button" aria-label="Zavřít">×</button>
+        <div id="dialogContent"></div>
+      </div>
+    </dialog>
+
+    <footer class="site-footer">
+      <p>
+        Data se generují z <code>InvestReport.md</code> a ze sledovaných URL v
+        <code>data/sources.json</code>. GitHub Actions workflow je připravený pro týdenní refresh.
+      </p>
+    </footer>
+
+    <script src="assets/app.js" defer></script>
+  </body>
+</html>
