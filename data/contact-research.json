@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T06:43:10.994578+00:00",
+  "generated_at": "2026-08-17T05:51:27.691698+00:00",
   "scope_note": "Only public professional contact channels from official/source pages are included. Private inferred e-mail patterns, personal phone numbers, and non-public WhatsApp data are excluded.",
   "records": [
     {
@@ -47,9 +47,8 @@
         "https://www.credoventures.com/team"
       ],
       "errors": [
-        "https://www.credoventures.com/contact: HTTP Error 404: Not Found",
-        "https://www.credoventures.com/kontakt: HTTP Error 404: Not Found",
-        "https://www.credoventures.com/apply: HTTP Error 404: Not Found"
+        "https://www.credoventures.com/contact/: HTTP Error 404: Not Found",
+        "https://www.credoventures.com/apply/: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -62,21 +61,7 @@
       ],
       "phones": [],
       "linkedin": [
-        "https://www.linkedin.com/company/kayavc",
-        "https://www.linkedin.com/in/jakubjurovych/",
-        "https://www.linkedin.com/in/julie-hu%C4%8D%C3%ADkov%C3%A1-b276b16b/",
-        "https://www.linkedin.com/in/jurajmasar/",
-        "https://www.linkedin.com/in/karelzheng/",
-        "https://www.linkedin.com/in/klaudia-kristofova/",
-        "https://www.linkedin.com/in/lifrordi/",
-        "https://www.linkedin.com/in/michalvalko/",
-        "https://www.linkedin.com/in/mrajcan/",
-        "https://www.linkedin.com/in/pavelmucha/",
-        "https://www.linkedin.com/in/tomascupr/",
-        "https://www.linkedin.com/in/tomasobrtac/",
-        "https://www.linkedin.com/in/tomaspacinda/",
-        "https://www.linkedin.com/in/vaclav-ryslink/",
-        "https://www.linkedin.com/in/vojtech-tomsu/"
+        "https://www.linkedin.com/company/kayavc"
       ],
       "facebook": [],
       "whatsapp": [],
@@ -88,17 +73,15 @@
         "https://www.kaya.vc/team"
       ],
       "checked_pages": [
-        "https://www.kaya.vc/",
-        "https://www.kaya.vc/team"
+        "https://www.kaya.vc/"
       ],
       "sources": [
-        "https://www.kaya.vc/",
-        "https://www.kaya.vc/team"
+        "https://www.kaya.vc/"
       ],
       "errors": [
-        "https://www.kaya.vc/kontakt: HTTP Error 404: Not Found",
         "https://www.kaya.vc/contact: HTTP Error 404: Not Found",
-        "https://www.kaya.vc/contact/: HTTP Error 404: Not Found"
+        "https://www.kaya.vc/kontakt/: HTTP Error 404: Not Found",
+        "https://www.kaya.vc/kontakt: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -106,40 +89,30 @@
       "name": "Presto Ventures",
       "query": "Presto Ventures Tensor Ventures Czech AI fund",
       "official_url": "https://www.prestoventures.com/",
-      "emails": [
-        "hello@prestoventures.com"
-      ],
+      "emails": [],
       "phones": [],
       "linkedin": [
-        "https://www.linkedin.com/company/presto-ventures/posts/?feedView=all",
-        "https://www.linkedin.com/in/edakucera/",
-        "https://www.linkedin.com/in/michalsperka/"
+        "https://www.linkedin.com/company/presto-ventures/posts/?feedView=all"
       ],
       "facebook": [],
       "whatsapp": [],
-      "other_socials": [
-        "http://omofox.com",
-        "https://pibox.com/"
-      ],
+      "other_socials": [],
       "forms": [
         "https://www.prestoventures.com/contact"
       ],
       "people_pages": [
-        "https://www.prestoventures.com/team",
-        "https://www.prestoventures.com/team/premysl-rubes",
-        "https://www.prestoventures.com/team/vojta-rocek"
+        "https://www.prestoventures.com/team"
       ],
       "checked_pages": [
         "https://www.prestoventures.com/",
-        "https://www.prestoventures.com/portfolio",
-        "https://www.prestoventures.com/team"
+        "https://www.prestoventures.com/contact"
       ],
       "sources": [
         "https://www.prestoventures.com/",
-        "https://www.prestoventures.com/portfolio",
-        "https://www.prestoventures.com/team"
+        "https://www.prestoventures.com/contact"
       ],
       "errors": [
+        "https://www.prestoventures.com/apply: HTTP Error 404: Not Found",
         "https://www.prestoventures.com/apply/: HTTP Error 404: Not Found"
       ],
       "notes": []
@@ -184,9 +157,9 @@
         "https://tensor.ventures/"
       ],
       "errors": [
-        "https://tensor.ventures/kontakt: HTTP Error 404: Not Found",
-        "https://tensor.ventures/contact: HTTP Error 404: Not Found",
-        "https://tensor.ventures/kontakt/: HTTP Error 404: Not Found"
+        "https://tensor.ventures/team/: HTTP Error 404: Not Found",
+        "https://tensor.ventures/apply: HTTP Error 404: Not Found",
+        "https://tensor.ventures/apply/: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -213,14 +186,13 @@
       "forms": [],
       "people_pages": [],
       "checked_pages": [
-        "https://www.jtventures.cz/",
-        "https://www.jtventures.cz/kontakt"
+        "https://www.jtventures.cz/"
       ],
       "sources": [
-        "https://www.jtventures.cz/",
-        "https://www.jtventures.cz/kontakt"
+        "https://www.jtventures.cz/"
       ],
       "errors": [
+        "https://www.jtventures.cz/team: HTTP Error 404: Not Found",
         "https://www.jtventures.cz/apply/: HTTP Error 404: Not Found",
         "https://www.jtventures.cz/contact/: HTTP Error 404: Not Found"
       ],
@@ -236,27 +208,35 @@
       "phones": [
         "+420 603 194 892"
       ],
-      "linkedin": [],
+      "linkedin": [
+        "https://www.linkedin.com/in/eduard-mika-bbb42/",
+        "https://www.linkedin.com/in/josef-chvojka-07618023/",
+        "https://www.linkedin.com/in/michaltaborsky/",
+        "https://www.linkedin.com/in/ondrej-fryc-b4873/",
+        "https://www.linkedin.com/in/roman-horacek"
+      ],
       "facebook": [],
       "whatsapp": [],
-      "other_socials": [],
+      "other_socials": [
+        "https://twitter.com/ceeetailer"
+      ],
       "forms": [
         "https://www.reflexcapital.com/contact/"
       ],
       "people_pages": [
         "https://cloud7.news/hosting/webnode-becomes-a-part-of-team-blue/",
+        "https://www.reflexcapital.com/cs/team/",
         "https://www.reflexcapital.com/team/"
       ],
       "checked_pages": [
         "https://www.reflexcapital.com/",
-        "https://www.reflexcapital.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.3"
+        "https://www.reflexcapital.com/team/"
       ],
       "sources": [
         "https://www.reflexcapital.com/",
-        "https://www.reflexcapital.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.3"
+        "https://www.reflexcapital.com/team/"
       ],
       "errors": [
-        "https://www.reflexcapital.com/apply/: HTTP Error 404: Not Found",
         "https://www.reflexcapital.com/apply: HTTP Error 404: Not Found"
       ],
       "notes": []
@@ -292,17 +272,16 @@
       ],
       "checked_pages": [
         "https://depoventures.com/",
-        "https://depoventures.com/about-depo",
+        "https://depoventures.com/contact",
         "https://depoventures.com/portfolio"
       ],
       "sources": [
         "https://depoventures.com/",
-        "https://depoventures.com/about-depo",
+        "https://depoventures.com/contact",
         "https://depoventures.com/portfolio"
       ],
       "errors": [
-        "https://depoventures.com/apply: HTTP Error 404: Not Found",
-        "https://depoventures.com/team/: HTTP Error 404: Not Found"
+        "https://depoventures.com/team: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -333,7 +312,6 @@
       ],
       "forms": [
         "https://lhv.vc/apply-now/",
-        "https://lhv.vc/apply-now/?a11y=1",
         "https://lhv.vc/partner/pitchbob-io/"
       ],
       "people_pages": [
@@ -343,17 +321,15 @@
       ],
       "checked_pages": [
         "https://lhv.vc/",
-        "https://lhv.vc/apply-now/",
-        "https://lhv.vc/portfolio/",
         "https://lhv.vc/team/"
       ],
       "sources": [
         "https://lhv.vc/",
-        "https://lhv.vc/apply-now/",
-        "https://lhv.vc/portfolio/",
         "https://lhv.vc/team/"
       ],
       "errors": [
+        "https://lhv.vc/kontakt: HTTP Error 404: Not Found",
+        "https://lhv.vc/contact: HTTP Error 404: Not Found",
         "https://lhv.vc/contact/: HTTP Error 404: Not Found"
       ],
       "notes": []
@@ -379,22 +355,14 @@
       "forms": [
         "https://cvca.cz/en/contact/"
       ],
-      "people_pages": [
-        "https://cvca.cz/en/about-us/",
-        "https://cvca.cz/en/about-us/advisory-committees/",
-        "https://cvca.cz/en/about-us/boards/",
-        "https://cvca.cz/en/about-us/cvca-management/",
-        "https://cvca.cz/en/about-us/statutes-and-code-of-ethics/"
-      ],
+      "people_pages": [],
       "checked_pages": [
-        "https://cvca.cz/en/contact/",
-        "https://cvca.cz/nation1/",
-        "https://cvca.cz/o-nas/rizeni-cvca/"
+        "https://cvca.cz/kontakt/",
+        "https://cvca.cz/nation1/"
       ],
       "sources": [
-        "https://cvca.cz/en/contact/",
-        "https://cvca.cz/nation1/",
-        "https://cvca.cz/o-nas/rizeni-cvca/"
+        "https://cvca.cz/kontakt/",
+        "https://cvca.cz/nation1/"
       ],
       "errors": [
         "https://cvca.cz/team/: HTTP Error 404: Not Found",
@@ -426,18 +394,18 @@
       ],
       "checked_pages": [
         "https://rockawayventures.com/",
-        "https://rockawayventures.com/app/plugins/contact-form-7/includes/css/styles.css?ver=5.7.4",
+        "https://rockawayventures.com/app/themes/rockaway-portfolio/resources/css/green.css?ver=1740560084",
         "https://rockawayventures.com/app/themes/rockaway-portfolio/resources/img/skin/green/favicon.ico",
-        "https://rockawayventures.com/contact/"
+        "https://rockawayventures.com/app/themes/rockaway-portfolio/resources/img/sprite.svg"
       ],
       "sources": [
         "https://rockawayventures.com/",
-        "https://rockawayventures.com/app/plugins/contact-form-7/includes/css/styles.css?ver=5.7.4",
+        "https://rockawayventures.com/app/themes/rockaway-portfolio/resources/css/green.css?ver=1740560084",
         "https://rockawayventures.com/app/themes/rockaway-portfolio/resources/img/skin/green/favicon.ico",
-        "https://rockawayventures.com/contact/"
+        "https://rockawayventures.com/app/themes/rockaway-portfolio/resources/img/sprite.svg"
       ],
       "errors": [
-        "https://rockawayventures.com/kontakt: HTTP Error 404: Not Found"
+        "https://rockawayventures.com/apply: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -462,22 +430,20 @@
       "forms": [
         "https://palefirecapital.com/en/contact/"
       ],
-      "people_pages": [
-        "https://palefirecapital.com/en/team-en/"
-      ],
+      "people_pages": [],
       "checked_pages": [
         "https://palefirecapital.com/en/contact/",
-        "https://palefirecapital.com/en/team-en/",
         "https://palefirecapital.com/kontakt/",
         "https://palefirecapital.com/portfolio/"
       ],
       "sources": [
         "https://palefirecapital.com/en/contact/",
-        "https://palefirecapital.com/en/team-en/",
         "https://palefirecapital.com/kontakt/",
         "https://palefirecapital.com/portfolio/"
       ],
-      "errors": [],
+      "errors": [
+        "https://palefirecapital.com/en/portfolio-en/: The read operation timed out"
+      ],
       "notes": []
     },
     {
@@ -499,7 +465,8 @@
       "other_socials": [
         "https://twitter.com/MITONCZ",
         "https://twitter.com/intent/follow?screen_name=MITONCZ",
-        "https://www.instagram.com/mitonfamily/"
+        "https://www.instagram.com/mitonfamily/",
+        "https://x.com/Showdown_TCG"
       ],
       "forms": [],
       "people_pages": [
@@ -507,15 +474,16 @@
       ],
       "checked_pages": [
         "https://www.miton.cz/",
-        "https://www.miton.cz/o-nas/"
+        "https://www.miton.cz/o-nas/",
+        "https://www.miton.cz/portfolio/"
       ],
       "sources": [
         "https://www.miton.cz/",
-        "https://www.miton.cz/o-nas/"
+        "https://www.miton.cz/o-nas/",
+        "https://www.miton.cz/portfolio/"
       ],
       "errors": [
-        "https://www.miton.cz/kontakt/: HTTP Error 404: Not Found",
-        "https://www.miton.cz/apply: HTTP Error 404: Not Found"
+        "https://www.miton.cz/contact/: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -524,6 +492,7 @@
       "query": "Sandberg Capital Slovakia AI investments",
       "official_url": "https://www.sandbergcapital.com/",
       "emails": [
+        "dealflow@sandbergcapital.com",
         "info@sandbergcapital.com"
       ],
       "phones": [
@@ -536,23 +505,23 @@
       "facebook": [],
       "whatsapp": [],
       "other_socials": [],
-      "forms": [
-        "https://sandbergcapital.com/en/contact/"
+      "forms": [],
+      "people_pages": [
+        "https://sandbergcapital.com/en/about-us/"
       ],
-      "people_pages": [],
       "checked_pages": [
         "https://sandbergcapital.com/",
-        "https://sandbergcapital.com/kontakt/",
-        "https://sandbergcapital.com/portfolio/retail/",
-        "https://sandbergcapital.com/portfolio/telekomunikacie/",
-        "https://sandbergcapital.com/portfolio/vzdelavanie/"
+        "https://sandbergcapital.com/o-nas/",
+        "https://sandbergcapital.com/portfolio/",
+        "https://sandbergcapital.com/portfolio/informacne-technologie/",
+        "https://sandbergcapital.com/portfolio/retail/"
       ],
       "sources": [
         "https://sandbergcapital.com/",
-        "https://sandbergcapital.com/kontakt/",
-        "https://sandbergcapital.com/portfolio/retail/",
-        "https://sandbergcapital.com/portfolio/telekomunikacie/",
-        "https://sandbergcapital.com/portfolio/vzdelavanie/"
+        "https://sandbergcapital.com/o-nas/",
+        "https://sandbergcapital.com/portfolio/",
+        "https://sandbergcapital.com/portfolio/informacne-technologie/",
+        "https://sandbergcapital.com/portfolio/retail/"
       ],
       "errors": [],
       "notes": []
@@ -568,22 +537,16 @@
       "linkedin": [
         "https://www.linkedin.com/company/zakastartup/posts/?feedView=all",
         "https://www.linkedin.com/company/zakastartups/",
-        "https://www.linkedin.com/feed/update/urn:li:activity:7488888735762137089",
         "https://www.linkedin.com/feed/update/urn:li:activity:7490714307459166208",
-        "https://www.linkedin.com/feed/update/urn:li:activity:7491461290318741504",
-        "https://www.linkedin.com/in/andrej-petrus-1a6414a4/",
-        "https://www.linkedin.com/in/filiporth/",
-        "https://www.linkedin.com/in/j%C3%A1n-b%C3%BAza-01842434/",
-        "https://www.linkedin.com/in/j%C3%A1n-kasper/",
-        "https://www.linkedin.com/in/jozef-ma%C4%8D%C3%A1k/",
-        "https://www.linkedin.com/in/natalia-sachova/",
-        "https://www.linkedin.com/in/peter-z%C3%A1le%C5%A1%C3%A1k-7b29582b9/",
-        "https://www.linkedin.com/in/richard-kopunik-b352a410/",
-        "https://www.linkedin.com/in/samuel-zalesak/"
+        "https://www.linkedin.com/feed/update/urn:li:activity:7491461290318741504"
       ],
       "facebook": [],
       "whatsapp": [],
-      "other_socials": [],
+      "other_socials": [
+        "https://cirrustx.com/",
+        "https://www.eigentx.com/",
+        "https://www.ingeltx.com/"
+      ],
       "forms": [
         "https://zaka.vc/submit-pitchdeck/"
       ],
@@ -592,16 +555,17 @@
       ],
       "checked_pages": [
         "https://zaka.vc/",
-        "https://zaka.vc/team/"
+        "https://zaka.vc/portfolio/",
+        "https://zaka.vc/submit-pitchdeck/"
       ],
       "sources": [
         "https://zaka.vc/",
-        "https://zaka.vc/team/"
+        "https://zaka.vc/portfolio/",
+        "https://zaka.vc/submit-pitchdeck/"
       ],
       "errors": [
-        "https://zaka.vc/contact: HTTP Error 404: Not Found",
-        "https://zaka.vc/contact/: HTTP Error 404: Not Found",
-        "https://zaka.vc/kontakt/: HTTP Error 404: Not Found"
+        "https://zaka.vc/kontakt/: HTTP Error 404: Not Found",
+        "https://zaka.vc/apply/: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -621,10 +585,9 @@
       "sources": [],
       "errors": [
         "https://www.crowdberry.eu/: HTTP Error 429: Too Many Requests",
-        "https://www.crowdberry.eu/contact: HTTP Error 429: Too Many Requests",
         "https://www.crowdberry.eu/kontakt: HTTP Error 429: Too Many Requests",
-        "https://www.crowdberry.eu/team: HTTP Error 429: Too Many Requests",
-        "https://www.crowdberry.eu/apply: HTTP Error 429: Too Many Requests"
+        "https://www.crowdberry.eu/team/: HTTP Error 429: Too Many Requests",
+        "https://www.crowdberry.eu/team: HTTP Error 429: Too Many Requests"
       ],
       "notes": [
         "No public direct contact channel found on checked official pages."
@@ -655,9 +618,9 @@
         "https://www.fundlift.cz/"
       ],
       "errors": [
-        "https://www.fundlift.cz/contact: HTTP Error 404: NOT FOUND",
-        "https://www.fundlift.cz/team/: HTTP Error 404: NOT FOUND",
-        "https://www.fundlift.cz/kontakt: HTTP Error 404: NOT FOUND"
+        "https://www.fundlift.cz/apply/: HTTP Error 404: NOT FOUND",
+        "https://www.fundlift.cz/apply: HTTP Error 404: NOT FOUND",
+        "https://www.fundlift.cz/contact: HTTP Error 404: NOT FOUND"
       ],
       "notes": []
     },
@@ -680,8 +643,6 @@
       ],
       "forms": [
         "https://startupyard.com/apply-to-startupyard-remote-lab/",
-        "https://startupyard.com/apply-to-startupyard/",
-        "https://startupyard.com/apply-to-startupyard/?s=",
         "https://startupyard.com/contact",
         "https://startupyard.com/contact/",
         "https://startupyard.com/contact/?s=",
@@ -689,21 +650,22 @@
       ],
       "people_pages": [
         "https://startupyard.com/frequently-asked-questions-about-startupyard/",
+        "https://startupyard.com/how-to-hire-a-developer-if-you-know-nothing-about-coding/",
         "https://startupyard.com/meet-teamsharq-the-platform-that-puts-a-full-computer-in-every-students-browser/",
         "https://startupyard.com/startupyard-team/"
       ],
       "checked_pages": [
         "https://startupyard.com/",
-        "https://startupyard.com/apply-to-startupyard/",
-        "https://startupyard.com/contact/"
+        "https://startupyard.com/contact/",
+        "https://startupyard.com/faq/"
       ],
       "sources": [
         "https://startupyard.com/",
-        "https://startupyard.com/apply-to-startupyard/",
-        "https://startupyard.com/contact/"
+        "https://startupyard.com/contact/",
+        "https://startupyard.com/faq/"
       ],
       "errors": [
-        "https://startupyard.com/team/: HTTP Error 404: Not Found"
+        "https://startupyard.com/kontakt: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -724,15 +686,17 @@
       "people_pages": [],
       "checked_pages": [
         "https://www.technologickainkubace.org/",
-        "https://www.technologickainkubace.org/apply/",
         "https://www.technologickainkubace.org/contact",
-        "https://www.technologickainkubace.org/kontakt"
+        "https://www.technologickainkubace.org/kontakt",
+        "https://www.technologickainkubace.org/kontakt/",
+        "https://www.technologickainkubace.org/team/"
       ],
       "sources": [
         "https://www.technologickainkubace.org/",
-        "https://www.technologickainkubace.org/apply/",
         "https://www.technologickainkubace.org/contact",
-        "https://www.technologickainkubace.org/kontakt"
+        "https://www.technologickainkubace.org/kontakt",
+        "https://www.technologickainkubace.org/kontakt/",
+        "https://www.technologickainkubace.org/team/"
       ],
       "errors": [],
       "notes": []
@@ -742,278 +706,29 @@
       "query": "TACR TREND SIGMA program grant 2025 startup AI",
       "official_url": "https://tacr.gov.cz/program/program-sigma/",
       "emails": [
-        "alena.belohradska@tacr.cz",
-        "ales.struhar@tacr.cz",
-        "alexandra.pirosova@tacr.cz",
-        "alzbeta.placha@tacr.cz",
-        "ani.uhrin.tokhyan@tacr.cz",
-        "anna.neugebauerova@tacr.cz",
-        "anna.zieglerova@tacr.cz",
-        "artem.kuznetsov@tacr.cz",
-        "barbora.cyrany@tacr.cz",
-        "baya.barbora.nunez@tacr.cz",
-        "blanka.simunkova@tacr.cz",
-        "chau.anh.nguyen@tacr.cz",
-        "david.kroupa@tacr.cz",
-        "denisa.rihoskova@tacr.cz",
-        "denisa.saskova@tacr.cz",
-        "denys.lysenko@tacr.cz",
-        "dita.dekastellova@tacr.cz",
-        "dominik.kyjevsky@tacr.cz",
-        "dominik.subrt@tacr.cz",
-        "elisa.crespi@tacr.cz",
-        "eliska.brabcova@tacr.cz",
-        "ester.schwarzova@tacr.cz",
-        "eva.bendlova@tacr.cz",
-        "eva.loubova@tacr.cz",
-        "eva.prochazkova@tacr.cz",
-        "eva.vadaszova@tacr.cz",
-        "filip.mazanek@tacr.cz",
-        "frantisek.knobloch@tacr.cz",
-        "gabriela.satkova@tacr.cz",
-        "hausleitnerova@tacr.cz",
-        "hedvika.kovandova@tacr.cz",
-        "ilona.vanova@tacr.cz",
-        "iva.parikova@tacr.cz",
-        "iveta.zaparkova@tacr.cz",
-        "jakub.pozarek@tacr.cz",
-        "jan.koblasa@tacr.cz",
-        "jana.dvorackova@tacr.cz",
-        "jana.slipkova@tacr.cz",
-        "jaromira.molackova@tacr.cz",
-        "jiri.navratil@tacr.cz",
-        "jirina.doncevova@tacr.cz",
-        "johana.roubalikova@tacr.cz",
-        "johana.rucka@tacr.cz",
-        "jozifova@tacr.cz",
-        "kalaskova@tacr.cz",
-        "kamila.hazdrova@tacr.cz",
-        "kamila.kinstova@tacr.cz",
-        "kamila.parikova@tacr.cz",
-        "karel.daniel.kopecky@tacr.cz",
-        "karolina.koziskova@tacr.cz",
-        "karolina.maranova@tacr.cz",
-        "katerina.feiglova@tacr.cz",
-        "katerina.novakova@tacr.cz",
-        "katerina.volfova@tacr.cz",
-        "klara.filipova@tacr.cz",
-        "klara.janouskova@tacr.cz",
-        "klubal@tacr.cz",
-        "kohoutova@tacr.cz",
-        "kopolovicova@tacr.cz",
-        "kovar@tacr.cz",
-        "krepelkova@tacr.cz",
-        "kseniia.kushnir@tacr.cz",
-        "kubicek@tacr.cz",
-        "kudova@tacr.cz",
-        "kuhnelova@tacr.cz",
-        "kusakova@tacr.cz",
-        "kusova@tacr.cz",
-        "kvetoslava.pazderova@tacr.cz",
-        "kyryl.huzenko@tacr.cz",
-        "ladislav.mlcak@tacr.cz",
-        "lenka.cervinkova@tacr.cz",
-        "lenka.krahulikova@tacr.cz",
-        "lenka.nemcova@tacr.cz",
-        "lenka.pacesova@tacr.cz",
-        "lenka.peskova@tacr.cz",
-        "lenka.pozarkova@tacr.cz",
-        "linda.dobiasova@tacr.cz",
-        "lubor.fialka@tacr.cz",
-        "lucie.jirickova@tacr.cz",
-        "lucie.kubalova@tacr.cz",
-        "lucie.rosecka@tacr.cz",
-        "lucie.seda@tacr.cz",
-        "lukas.horsky@tacr.cz",
-        "lukas.janda@tacr.cz",
-        "lukas.kulicka@tacr.cz",
-        "marcela.bubelova@tacr.cz",
-        "margita.pistorova@tacr.cz",
-        "marie.felgrova@tacr.cz",
-        "marketa.kopecka@tacr.cz",
-        "martin.buncek@tacr.cz",
-        "martin.kos@tacr.cz",
-        "martin.pazdera@tacr.cz",
-        "martin.petrus@tacr.cz",
-        "martina.duchonova@tacr.cz",
-        "martina.hartmanova@tacr.cz",
-        "martina.kepkova@tacr.cz",
-        "martina.kissova@tacr.cz",
-        "martina.mrkvickova@tacr.cz",
-        "martina.sovjakova@tacr.cz",
-        "martina.stadnikova@tacr.cz",
-        "martina.vorasicka@tacr.cz",
-        "masicek@tacr.cz",
-        "matej.stepanek@tacr.cz",
-        "matolin@tacr.cz",
-        "michaela.cermakova@tacr.cz",
-        "michaela.kovandova@tacr.cz",
-        "michaela.nemcova@tacr.cz",
-        "michaela.orlova@tacr.cz",
-        "michaela.stehlikova@tacr.cz",
-        "michaela.streckerova@tacr.cz",
-        "michal.gysov@tacr.cz",
-        "milly.kuzelkova@tacr.cz",
-        "miroslava.chytilova@tacr.cz",
-        "monika.mala@tacr.cz",
-        "najman@tacr.cz",
-        "natalie.caruso@tacr.cz",
-        "nikol.kubatova@tacr.cz",
-        "nikola.nidrova@tacr.cz",
-        "olena.kamyshan@tacr.cz",
-        "on@tacr.cz",
-        "ondrej.camfrla@tacr.cz",
-        "ondrej.kusbach@tacr.cz",
-        "ondrej.richter@tacr.cz",
-        "pavel.hesoun@tacr.cz",
-        "pavla.hurska.razova@tacr.cz",
-        "pavla.markova@tacr.cz",
-        "pavla.pokorna@tacr.cz",
-        "pavlina.naprstkova@tacr.cz",
-        "peter.ivan@tacr.cz",
-        "petkov@tacr.cz",
-        "petra.fouskova@tacr.cz",
-        "petra.mertlikova@tacr.cz",
-        "petra.ondrackova@tacr.cz",
-        "petra.ptackova@tacr.cz",
-        "petra.simankova@tacr.cz",
-        "pospisilova@tacr.cz",
-        "radana.ditova@tacr.cz",
-        "radka.harazimova@tacr.cz",
-        "radoslav.kondac@tacr.cz",
-        "remerova@tacr.cz",
-        "rozalie.bilkova@tacr.cz",
-        "rustam.miftakhov@tacr.cz",
-        "ruzicka@tacr.cz",
-        "sara.janalikova@tacr.cz",
-        "sarka.kovarikova@tacr.cz",
-        "simon.pokorny@tacr.cz",
-        "simona.weidnerova@tacr.cz",
-        "slipek@tacr.cz",
-        "stanislav.toman@tacr.cz",
-        "stanislava.simankova@tacr.cz",
-        "stepanka.barnova@tacr.cz",
-        "stepanka.zimova@tacr.cz",
-        "tana.halova.perglova@tacr.cz",
-        "tereza.mladkova@tacr.cz",
-        "tereza.moravkova@tacr.cz",
-        "tereza.rozmajzlova@tacr.cz",
-        "timotej.stefanik@tacr.cz",
-        "tomas.linhart@tacr.cz",
-        "tomas.reml@tacr.cz",
-        "vaclav.bily@tacr.cz",
-        "vaclav.kmonicek@tacr.cz",
-        "vendula.stim@tacr.cz",
-        "veronika.brezinova@tacr.cz",
-        "veronika.chudlarska@tacr.cz",
-        "veronika.dostalova@tacr.cz",
-        "veronika.fryzkova@tacr.cz",
-        "veronika.panochova@tacr.cz",
-        "vit.pekarek@tacr.cz",
-        "vitezslav.vlasak@tacr.cz",
-        "vojtech.kriz@tacr.cz",
-        "volfova@tacr.cz",
-        "vopalkova.skalska@tacr.cz",
-        "zajoncova@tacr.cz",
-        "zaneta.koudelova@tacr.cz",
-        "zeman@tacr.cz",
-        "zlamal@tacr.cz",
-        "zmatlikova@tacr.cz",
-        "zuzana.dostalova@tacr.cz",
-        "zuzana.holicka@tacr.cz",
-        "zuzana.zamkova@tacr.cz"
+        "on@tacr.cz"
       ],
-      "phones": [
-        "+420 234 611 184",
-        "+420 234 611 211",
-        "+420 234 611 311",
-        "+420 234 611 316",
-        "+420 234 611 319",
-        "+420 234 611 414",
-        "+420 234 611 501",
-        "+420 234 611 812",
-        "+420 602 513 602",
-        "+420 603 486 158",
-        "+420 604 204 059",
-        "+420 608 676 565",
-        "+420 723 021 053",
-        "+420 725 265 123",
-        "+420 732 258 376",
-        "+420 734 316 513",
-        "+420 734 316 519",
-        "+420 734 316 521",
-        "+420 734 316 524",
-        "+420 734 752 920",
-        "+420 734 752 928",
-        "+420 737 076 269",
-        "+420 770 117 404",
-        "+420 770 142 453",
-        "+420 770 145 378",
-        "+420 770 172 087",
-        "+420 770 179 363",
-        "+420 770 191 394",
-        "+420 770 194 873",
-        "+420 770 199 190",
-        "+420 770 315 816",
-        "+420 770 319 025",
-        "+420 770 336 575",
-        "+420 771 238 762",
-        "+420 771 299 531",
-        "+420 771 299 533",
-        "+420 771228369",
-        "+420 773 770 654",
-        "+420 773 791 375",
-        "+420 774 610 376",
-        "+420 775 165 545",
-        "+420 775 423 810",
-        "+420 775 436 599",
-        "+420 775 630 301",
-        "+420 775 857 751",
-        "+420 775 863 612",
-        "+420 777 489 854",
-        "+420 777 680 640",
-        "+420 778 114 277",
-        "+420 778 410 435",
-        "+420 778 414 478",
-        "+420 778 438 197",
-        "+420 778 463 138",
-        "+420 778 469 904",
-        "+420 778 479 830",
-        "+420 778 487 637",
-        "+420 778 488 657",
-        "+420 778 524 560",
-        "+420 778 717 360",
-        "+420 778 727 116",
-        "+420 778 735 008",
-        "+420 778 739 561",
-        "+420 778 772 251",
-        "+420 778 775 306",
-        "+420 778 880 482",
-        "+420 778 880 485",
-        "+420 778 881 306",
-        "+420 778 963 666",
-        "+420 778 975 049"
-      ],
+      "phones": [],
       "linkedin": [
-        "http://www.linkedin.com/shareArticle?mini=true&url=https://tacr.gov.cz/o-nas/organizacni-struktura/&source=tacr",
+        "http://www.linkedin.com/shareArticle?mini=true&url=https://tacr.gov.cz/o-nas/mezinarodni-spoluprace/&source=tacr",
+        "http://www.linkedin.com/shareArticle?mini=true&url=https://tacr.gov.cz/o-nas/povinne-informace/&source=tacr",
         "http://www.linkedin.com/shareArticle?mini=true&url=https://tacr.gov.cz/o-nas/verejne-zakazky/&source=tacr",
-        "http://www.linkedin.com/shareArticle?mini=true&url=https://tacr.gov.cz/o-nas/zamestnanci/&source=tacr",
         "http://www.linkedin.com/shareArticle?mini=true&url=https://tacr.gov.cz/program/program-sigma/&source=tacr",
         "https://cz.linkedin.com/company/tacr"
       ],
       "facebook": [
-        "https://www.facebook.com/sharer/sharer.php?u=https://tacr.gov.cz/o-nas/organizacni-struktura/",
+        "https://www.facebook.com/sharer/sharer.php?u=https://tacr.gov.cz/o-nas/mezinarodni-spoluprace/",
+        "https://www.facebook.com/sharer/sharer.php?u=https://tacr.gov.cz/o-nas/povinne-informace/",
         "https://www.facebook.com/sharer/sharer.php?u=https://tacr.gov.cz/o-nas/verejne-zakazky/",
-        "https://www.facebook.com/sharer/sharer.php?u=https://tacr.gov.cz/o-nas/zamestnanci/",
         "https://www.facebook.com/sharer/sharer.php?u=https://tacr.gov.cz/program/program-sigma/",
         "https://www.facebook.com/tacr.cz"
       ],
       "whatsapp": [],
       "other_socials": [
         "https://twitter.com/TACR_cz",
-        "https://twitter.com/intent/tweet?url=https://tacr.gov.cz/o-nas/organizacni-struktura/",
+        "https://twitter.com/intent/tweet?url=https://tacr.gov.cz/o-nas/mezinarodni-spoluprace/",
+        "https://twitter.com/intent/tweet?url=https://tacr.gov.cz/o-nas/povinne-informace/",
         "https://twitter.com/intent/tweet?url=https://tacr.gov.cz/o-nas/verejne-zakazky/",
-        "https://twitter.com/intent/tweet?url=https://tacr.gov.cz/o-nas/zamestnanci/",
         "https://twitter.com/intent/tweet?url=https://tacr.gov.cz/program/program-sigma/",
         "https://www.instagram.com/tacr_official/",
         "https://www.youtube.com/c/Technologick%C3%A1agentura%C4%8CRPraha"
@@ -1021,19 +736,19 @@
       "forms": [],
       "people_pages": [],
       "checked_pages": [
-        "https://tacr.gov.cz/o-nas/organizacni-struktura/",
+        "https://tacr.gov.cz/o-nas/mezinarodni-spoluprace/",
+        "https://tacr.gov.cz/o-nas/povinne-informace/",
         "https://tacr.gov.cz/o-nas/verejne-zakazky/",
-        "https://tacr.gov.cz/o-nas/zamestnanci/",
         "https://tacr.gov.cz/program/program-sigma/"
       ],
       "sources": [
-        "https://tacr.gov.cz/o-nas/organizacni-struktura/",
+        "https://tacr.gov.cz/o-nas/mezinarodni-spoluprace/",
+        "https://tacr.gov.cz/o-nas/povinne-informace/",
         "https://tacr.gov.cz/o-nas/verejne-zakazky/",
-        "https://tacr.gov.cz/o-nas/zamestnanci/",
         "https://tacr.gov.cz/program/program-sigma/"
       ],
       "errors": [
-        "https://tacr.gov.cz/team: HTTP Error 404: Not Found"
+        "https://tacr.gov.cz/apply/: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -1070,16 +785,16 @@
       "checked_pages": [
         "https://cvca.cz/",
         "https://cvca.cz/en/contact/",
-        "https://cvca.cz/o-nas/rizeni-cvca/"
+        "https://cvca.cz/kontakt/"
       ],
       "sources": [
         "https://cvca.cz/",
         "https://cvca.cz/en/contact/",
-        "https://cvca.cz/o-nas/rizeni-cvca/"
+        "https://cvca.cz/kontakt/"
       ],
       "errors": [
-        "https://cvca.cz/team: HTTP Error 404: Not Found",
-        "https://cvca.cz/team/: HTTP Error 404: Not Found"
+        "https://cvca.cz/team/: HTTP Error 404: Not Found",
+        "https://cvca.cz/team: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -1090,9 +805,30 @@
       "emails": [
         "recepce@jic.cz"
       ],
-      "phones": [],
+      "phones": [
+        "+420 725 090 442"
+      ],
       "linkedin": [
-        "https://www.linkedin.com/company/jic-brno/"
+        "https://www.linkedin.com/company/jic-brno/",
+        "https://www.linkedin.com/in/%c5%a1%c3%a1rka-chl%c3%a1dkov%c3%a1-9605b75b/",
+        "https://www.linkedin.com/in/ales-horak-5561661/",
+        "https://www.linkedin.com/in/cigler/?originalsubdomain=cz",
+        "https://www.linkedin.com/in/dagmar-dvorakova/",
+        "https://www.linkedin.com/in/ivo-denemarek-00749747/",
+        "https://www.linkedin.com/in/jan-cerno-442a875/",
+        "https://www.linkedin.com/in/jana-adamcov%C3%A1-2b774422/",
+        "https://www.linkedin.com/in/janbalas/",
+        "https://www.linkedin.com/in/kubacarda/",
+        "https://www.linkedin.com/in/martin-chovanec-145789133/",
+        "https://www.linkedin.com/in/martin-dokoupil-5b736b16/?originalsubdomain=cz",
+        "https://www.linkedin.com/in/mildabrabec/",
+        "https://www.linkedin.com/in/radkaformanova/?originalsubdomain=cz",
+        "https://www.linkedin.com/in/richard-brulik-b998a024/?originalsubdomain=cz",
+        "https://www.linkedin.com/in/roman-gernes-239b8a4/",
+        "https://www.linkedin.com/in/rostislav-brzobohaty/",
+        "https://www.linkedin.com/in/tom%c3%a1%c5%a1-avrat-70222147/",
+        "https://www.linkedin.com/in/viktor-fiala-37591114/",
+        "https://www.linkedin.com/in/viktor-fiala-acca-1b1a9010/"
       ],
       "facebook": [
         "https://www.facebook.com/jic.brno/"
@@ -1104,19 +840,22 @@
       ],
       "forms": [],
       "people_pages": [
-        "https://www.jic.cz/en/about-us"
+        "https://www.jic.cz/en/about-us",
+        "https://www.jic.cz/en/about-us/jic-experts"
       ],
       "checked_pages": [
         "https://www.jic.cz/cz/",
-        "https://www.jic.cz/cz/o-nas"
+        "https://www.jic.cz/cz/o-nas",
+        "https://www.jic.cz/cz/o-nas/experti"
       ],
       "sources": [
         "https://www.jic.cz/cz/",
-        "https://www.jic.cz/cz/o-nas"
+        "https://www.jic.cz/cz/o-nas",
+        "https://www.jic.cz/cz/o-nas/experti"
       ],
       "errors": [
-        "https://www.jic.cz/team/: HTTP Error 404: Not Found",
-        "https://www.jic.cz/contact: HTTP Error 404: Not Found"
+        "https://www.jic.cz/apply/: HTTP Error 404: Not Found",
+        "https://www.jic.cz/apply: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -1154,17 +893,17 @@
       "people_pages": [],
       "checked_pages": [
         "https://lookai.vc/",
+        "https://lookai.vc/portfolio/ambr/",
         "https://lookai.vc/portfolio/brickwise/",
-        "https://lookai.vc/portfolio/digicust/",
-        "https://lookai.vc/portfolio/openrefactory/",
-        "https://lookai.vc/portfolio/scase/"
+        "https://lookai.vc/portfolio/electric-sheep/",
+        "https://lookai.vc/portfolio/pandatron/"
       ],
       "sources": [
         "https://lookai.vc/",
+        "https://lookai.vc/portfolio/ambr/",
         "https://lookai.vc/portfolio/brickwise/",
-        "https://lookai.vc/portfolio/digicust/",
-        "https://lookai.vc/portfolio/openrefactory/",
-        "https://lookai.vc/portfolio/scase/"
+        "https://lookai.vc/portfolio/electric-sheep/",
+        "https://lookai.vc/portfolio/pandatron/"
       ],
       "errors": [],
       "notes": []
@@ -1180,9 +919,9 @@
         "+420 724 244 989"
       ],
       "linkedin": [
-        "https://www.linkedin.com/company/edima-solutions/",
-        "https://www.linkedin.com/company/filuta/",
-        "https://www.linkedin.com/company/flowlance/"
+        "https://www.linkedin.com/company/decisionrules-io/",
+        "https://www.linkedin.com/company/impactso/",
+        "https://www.linkedin.com/company/qubu-io/"
       ],
       "facebook": [],
       "whatsapp": [],
@@ -1197,19 +936,19 @@
       ],
       "checked_pages": [
         "https://czechfounders.vc/",
-        "https://czechfounders.vc/our-portfolio/edmund",
-        "https://czechfounders.vc/our-portfolio/filuta-ai",
-        "https://czechfounders.vc/our-portfolio/flowlance"
+        "https://czechfounders.vc/our-portfolio/circuparts",
+        "https://czechfounders.vc/our-portfolio/decision-rules",
+        "https://czechfounders.vc/our-portfolio/devs",
+        "https://czechfounders.vc/our-portfolio/impactso-1"
       ],
       "sources": [
         "https://czechfounders.vc/",
-        "https://czechfounders.vc/our-portfolio/edmund",
-        "https://czechfounders.vc/our-portfolio/filuta-ai",
-        "https://czechfounders.vc/our-portfolio/flowlance"
+        "https://czechfounders.vc/our-portfolio/circuparts",
+        "https://czechfounders.vc/our-portfolio/decision-rules",
+        "https://czechfounders.vc/our-portfolio/devs",
+        "https://czechfounders.vc/our-portfolio/impactso-1"
       ],
-      "errors": [
-        "https://czechfounders.vc/contact/: HTTP Error 404: Not Found"
-      ],
+      "errors": [],
       "notes": []
     },
     {
@@ -1253,10 +992,9 @@
         "https://www.purple-ventures.com/"
       ],
       "errors": [
-        "https://www.purple-ventures.com/apply/: HTTP Error 404: Not Found",
-        "https://www.purple-ventures.com/kontakt: HTTP Error 404: Not Found",
-        "https://www.purple-ventures.com/contact/: HTTP Error 404: Not Found",
-        "https://www.purple-ventures.com/contact: HTTP Error 404: Not Found"
+        "https://www.purple-ventures.com/team/: HTTP Error 404: Not Found",
+        "https://www.purple-ventures.com/team: HTTP Error 404: Not Found",
+        "https://www.purple-ventures.com/kontakt/: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -1288,8 +1026,7 @@
         "https://cz.linkedin.com/company/kickk"
       ],
       "facebook": [
-        "https://www.facebook.com/KICKarlovarskehokraje",
-        "https://www.facebook.com/KICKarlovarskehokraje/"
+        "https://www.facebook.com/KICKarlovarskehokraje"
       ],
       "whatsapp": [],
       "other_socials": [
@@ -1298,16 +1035,16 @@
       "forms": [],
       "people_pages": [],
       "checked_pages": [
-        "https://kickk.cz/",
-        "https://kickk.cz/kontakt/"
+        "https://kickk.cz/"
       ],
       "sources": [
-        "https://kickk.cz/",
-        "https://kickk.cz/kontakt/"
+        "https://kickk.cz/"
       ],
       "errors": [
-        "https://kickk.cz/team: HTTP Error 404: Not Found",
-        "https://kickk.cz/team/: HTTP Error 404: Not Found"
+        "https://kickk.cz/team/: HTTP Error 404: Not Found",
+        "https://kickk.cz/contact/: HTTP Error 404: Not Found",
+        "https://kickk.cz/apply: HTTP Error 404: Not Found",
+        "https://kickk.cz/apply/: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -1335,18 +1072,16 @@
         "https://eic.ec.europa.eu/eic-fund/about-eic-fund_en"
       ],
       "checked_pages": [
-        "https://eic.ec.europa.eu/eic-fund/about-eic-fund_en",
         "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
         "https://eic.ec.europa.eu/impact/eic-portfolios_en"
       ],
       "sources": [
-        "https://eic.ec.europa.eu/eic-fund/about-eic-fund_en",
         "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
         "https://eic.ec.europa.eu/impact/eic-portfolios_en"
       ],
       "errors": [
         "https://eic.ec.europa.eu/kontakt: HTTP Error 404: Not Found",
-        "https://eic.ec.europa.eu/kontakt/: HTTP Error 404: Not Found"
+        "https://eic.ec.europa.eu/apply: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -1371,10 +1106,10 @@
         "https://orbitcapital.com/"
       ],
       "errors": [
-        "https://orbitcapital.com/kontakt/: HTTP Error 404: Not Found",
-        "https://orbitcapital.com/team/: HTTP Error 404: Not Found",
         "https://orbitcapital.com/contact/: HTTP Error 404: Not Found",
-        "https://orbitcapital.com/apply: HTTP Error 404: Not Found"
+        "https://orbitcapital.com/apply/: HTTP Error 404: Not Found",
+        "https://orbitcapital.com/team: HTTP Error 404: Not Found",
+        "https://orbitcapital.com/kontakt/: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -1413,10 +1148,7 @@
         "https://www.springtide.cz/about/",
         "https://www.springtide.cz/contacts/"
       ],
-      "errors": [
-        "https://www.springtide.cz/apply: HTTP Error 404: Not Found",
-        "https://www.springtide.cz/apply/: HTTP Error 404: Not Found"
-      ],
+      "errors": [],
       "notes": []
     },
     {
@@ -1425,9 +1157,7 @@
       "official_url": "https://kkcg.com/",
       "emails": [
         "boston@kkcg.com",
-        "communication@kkcg.com",
         "info@kkcg.com",
-        "investment_opportunities@kkcg.com",
         "london@kkcg.com",
         "lucerne@kkcg.com",
         "prague@kkcg.com"
@@ -1438,17 +1168,14 @@
         "+41414102929",
         "+41414102929\\",
         "+420 225 010 612",
-        "+420 602 372 834",
         "+420225010612",
         "+420225010612\\",
-        "+420602372834",
-        "+420602372834\\",
         "+447538905891",
         "+447538905891\\"
       ],
       "linkedin": [
         "https://www.linkedin.com/company/kkcggroup",
-        "https://www.linkedin.com/company/kkcggroup/"
+        "https://www.linkedin.com/in/karel-komarek/"
       ],
       "facebook": [],
       "whatsapp": [],
@@ -1464,21 +1191,38 @@
         "https://kkcg.com/en/about-us/founder-karel-komarek",
         "https://kkcg.com/en/about-us/frequently-asked-questions",
         "https://kkcg.com/en/about-us/history",
-        "https://kkcg.com/en/about-us/leadership"
+        "https://kkcg.com/en/about-us/leadership",
+        "https://kkcg.com/en/about-us/leadership/alena-bastis",
+        "https://kkcg.com/en/about-us/leadership/clay-van-doren",
+        "https://kkcg.com/en/about-us/leadership/david-kolacek",
+        "https://kkcg.com/en/about-us/leadership/jiri-jecmen",
+        "https://kkcg.com/en/about-us/leadership/jiri-radoch",
+        "https://kkcg.com/en/about-us/leadership/karel-komarek-jr",
+        "https://kkcg.com/en/about-us/leadership/katarina-kohlmayer",
+        "https://kkcg.com/en/about-us/leadership/michal-tomanek",
+        "https://kkcg.com/en/about-us/leadership/milan-sames",
+        "https://kkcg.com/en/about-us/leadership/miroslav-jestrabik",
+        "https://kkcg.com/en/about-us/leadership/naida-buljugic",
+        "https://kkcg.com/en/about-us/leadership/pavel-saroch",
+        "https://kkcg.com/en/about-us/leadership/pavel-turek",
+        "https://kkcg.com/en/about-us/leadership/petr-pujman",
+        "https://kkcg.com/en/about-us/leadership/robert-chvatal",
+        "https://kkcg.com/en/about-us/leadership/stepan-dlouhy"
       ],
       "checked_pages": [
         "https://kkcg.com/en",
+        "https://kkcg.com/en/about-us/founder-karel-komarek",
         "https://kkcg.com/en/about-us/history",
-        "https://kkcg.com/en/contacts"
+        "https://kkcg.com/en/about-us/leadership"
       ],
       "sources": [
         "https://kkcg.com/en",
+        "https://kkcg.com/en/about-us/founder-karel-komarek",
         "https://kkcg.com/en/about-us/history",
-        "https://kkcg.com/en/contacts"
+        "https://kkcg.com/en/about-us/leadership"
       ],
       "errors": [
-        "https://kkcg.com/contact: HTTP Error 404: Not Found",
-        "https://kkcg.com/apply/: HTTP Error 404: Not Found"
+        "https://kkcg.com/team/: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -1493,7 +1237,9 @@
       "linkedin": [
         "https://www.linkedin.com/company/tilia-impact-ventures/",
         "https://www.linkedin.com/in/andy-m-gray/",
-        "https://www.linkedin.com/in/kmarkova/"
+        "https://www.linkedin.com/in/kmarkova/",
+        "https://www.linkedin.com/in/pavelpetrek/",
+        "https://www.linkedin.com/in/pvitek/"
       ],
       "facebook": [],
       "whatsapp": [],
@@ -1508,14 +1254,18 @@
       ],
       "checked_pages": [
         "https://tilia.vc/",
-        "https://tilia.vc/team-andrew-gray/"
+        "https://tilia.vc/team-andrew-gray/",
+        "https://tilia.vc/team-pavel-petrek/",
+        "https://tilia.vc/team-petr-vitek/"
       ],
       "sources": [
         "https://tilia.vc/",
-        "https://tilia.vc/team-andrew-gray/"
+        "https://tilia.vc/team-andrew-gray/",
+        "https://tilia.vc/team-pavel-petrek/",
+        "https://tilia.vc/team-petr-vitek/"
       ],
       "errors": [
-        "https://tilia.vc/contact/: HTTP Error 404: Not Found"
+        "https://tilia.vc/kontakt: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -1524,9 +1274,25 @@
       "query": "Y Soft Ventures portfolio partner contact",
       "official_url": "https://www.ysoft.com/ventures",
       "emails": [
+        "hello@ysoft.com",
         "lukas.konecny@ysoft.com"
       ],
-      "phones": [],
+      "phones": [
+        "+1 786 246 6334",
+        "+1 888 761 9977",
+        "+33 982 547 282",
+        "+36 703 862 047",
+        "+420 533 031 381",
+        "+420 533 031 500",
+        "+420 725 834 776",
+        "+55 112 3676 680",
+        "+61 2 9451 5266",
+        "+65 6299 3638",
+        "+81 788 915 930",
+        "+86 21 5168 8320",
+        "+97 144 239 049",
+        "+97 2 545 336 649"
+      ],
       "linkedin": [
         "https://www.linkedin.com/company/y-soft/",
         "https://www.ysoft.com/{\"no_follow\":false,\"open_in_new_tab\":true,\"rel\":\"noopener\",\"sponsored\":false,\"url\":{\"content_id\":null,\"href\":\"https:/www.linkedin.com/in/lukaskonecny1/\",\"href_with_scheme\":\"https:/www.linkedin.com/in/lukaskonecny1/\",\"type\":\"EXTERNAL\"},\"user_generated_content\":false}"
@@ -1546,18 +1312,21 @@
         "https://www.ysoft.com/contact"
       ],
       "people_pages": [
-        "https://www.ysoft.com/about-us"
+        "https://www.ysoft.com/about-us",
+        "https://www.ysoft.com/cs/about-us"
       ],
       "checked_pages": [
+        "https://www.ysoft.com/about-us",
+        "https://www.ysoft.com/contact",
         "https://www.ysoft.com/ventures"
       ],
       "sources": [
+        "https://www.ysoft.com/about-us",
+        "https://www.ysoft.com/contact",
         "https://www.ysoft.com/ventures"
       ],
       "errors": [
-        "https://www.ysoft.com/team/: HTTP Error 404: Not Found",
-        "https://www.ysoft.com/kontakt/: HTTP Error 404: Not Found",
-        "https://www.ysoft.com/kontakt: HTTP Error 404: Not Found"
+        "https://www.ysoft.com/kontakt/: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -1586,17 +1355,17 @@
       "people_pages": [],
       "checked_pages": [
         "https://ventures.jetinvestment.cz/",
-        "https://ventures.jetinvestment.cz/portfolio/cequence",
+        "https://ventures.jetinvestment.cz/portfolio/digicust",
         "https://ventures.jetinvestment.cz/portfolio/partory"
       ],
       "sources": [
         "https://ventures.jetinvestment.cz/",
-        "https://ventures.jetinvestment.cz/portfolio/cequence",
+        "https://ventures.jetinvestment.cz/portfolio/digicust",
         "https://ventures.jetinvestment.cz/portfolio/partory"
       ],
       "errors": [
         "https://ventures.jetinvestment.cz/contact: HTTP Error 404: Not Found",
-        "https://ventures.jetinvestment.cz/apply/: HTTP Error 404: Not Found"
+        "https://ventures.jetinvestment.cz/contact/: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -1625,7 +1394,8 @@
         "https://www.linkedin.com/in/pkalanyos/",
         "https://www.linkedin.com/in/pribyljiri/",
         "https://www.linkedin.com/in/tmichalek/",
-        "https://www.linkedin.com/in/tomas-fila-126a4b30/"
+        "https://www.linkedin.com/in/tomas-fila-126a4b30/",
+        "https://www.linkedin.com/pulse/komer%C4%8Dn%C3%AD-banka-m%C3%A1-finbricksem-n%C3%A1skok-na-rostouc%C3%ADm-trhu-open-bankingu-grehe/"
       ],
       "facebook": [],
       "whatsapp": [],
@@ -1634,14 +1404,15 @@
       "people_pages": [],
       "checked_pages": [
         "https://www.kbsmart.cz/",
-        "https://www.kbsmart.cz/kontakt/"
+        "https://www.kbsmart.cz/kontakt/",
+        "https://www.kbsmart.cz/napsali-o-nas/"
       ],
       "sources": [
         "https://www.kbsmart.cz/",
-        "https://www.kbsmart.cz/kontakt/"
+        "https://www.kbsmart.cz/kontakt/",
+        "https://www.kbsmart.cz/napsali-o-nas/"
       ],
       "errors": [
-        "https://www.kbsmart.cz/contact: HTTP Error 404: ",
         "https://www.kbsmart.cz/apply/: HTTP Error 404: ",
         "https://www.kbsmart.cz/team/: HTTP Error 404: "
       ],
@@ -1651,7 +1422,9 @@
       "name": "Inovo VC",
       "query": "Inovo VC partners portfolio CEE SaaS AI",
       "official_url": "https://inovo.vc/",
-      "emails": [],
+      "emails": [
+        "michal.scipiodelcampo@inovo.vc"
+      ],
       "phones": [],
       "linkedin": [
         "https://www.linkedin.com/in/dawid-sugier/",
@@ -1666,18 +1439,30 @@
       "other_socials": [],
       "forms": [],
       "people_pages": [
-        "https://inovo.vc/team"
+        "https://inovo.vc/team",
+        "https://inovo.vc/team/dealteam/dawid-sugier",
+        "https://inovo.vc/team/dealteam/karol-lasota",
+        "https://inovo.vc/team/dealteam/maciej-maysz",
+        "https://inovo.vc/team/dealteam/micha-rokosz",
+        "https://inovo.vc/team/dealteam/tomasz-swieboda",
+        "https://inovo.vc/team/dealteam/zuzanna-kompowska",
+        "https://inovo.vc/team/enablers/daria-meysztowicz",
+        "https://inovo.vc/team/enablers/sebastian-czerwiski",
+        "https://inovo.vc/team/micha-scipio-del-campo",
+        "https://inovo.vc/team/page-2",
+        "https://inovo.vc/team/paulina-motty",
+        "https://inovo.vc/team/venture-partners/ariel-finkelstein"
       ],
       "checked_pages": [
-        "https://inovo.vc/"
+        "https://inovo.vc/",
+        "https://inovo.vc/team"
       ],
       "sources": [
-        "https://inovo.vc/"
+        "https://inovo.vc/",
+        "https://inovo.vc/team"
       ],
       "errors": [
-        "https://inovo.vc/kontakt/: HTTP Error 404: Not Found",
-        "https://inovo.vc/apply/: HTTP Error 404: Not Found",
-        "https://inovo.vc/apply: HTTP Error 404: Not Found"
+        "https://inovo.vc/apply/: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -1734,7 +1519,8 @@
         "https://otb.vc/people/"
       ],
       "errors": [
-        "https://otb.vc/kontakt: HTTP Error 404: Not Found"
+        "https://otb.vc/apply: HTTP Error 404: Not Found",
+        "https://otb.vc/kontakt/: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -1761,8 +1547,7 @@
         "https://www.3tscapital.com/contact"
       ],
       "errors": [
-        "https://www.3tscapital.com/kontakt: HTTP Error 404: Not Found",
-        "https://www.3tscapital.com/team/: HTTP Error 404: Not Found",
+        "https://www.3tscapital.com/team: HTTP Error 404: Not Found",
         "https://www.3tscapital.com/apply: HTTP Error 404: Not Found"
       ],
       "notes": []
@@ -1785,18 +1570,84 @@
       ],
       "forms": [],
       "people_pages": [
-        "https://www.speedinvest.com/team"
+        "https://www.speedinvest.com/team",
+        "https://www.speedinvest.com/team-members/alex-davis",
+        "https://www.speedinvest.com/team-members/alexander-gruber",
+        "https://www.speedinvest.com/team-members/alienor-bosse",
+        "https://www.speedinvest.com/team-members/alvaro-perezcano",
+        "https://www.speedinvest.com/team-members/anastasiia-grushina",
+        "https://www.speedinvest.com/team-members/andjela-milenkovic",
+        "https://www.speedinvest.com/team-members/andrea-zitna",
+        "https://www.speedinvest.com/team-members/andreas-schwarzenbrunner",
+        "https://www.speedinvest.com/team-members/arsham-ahmadzadeh",
+        "https://www.speedinvest.com/team-members/artem-zhuravlev",
+        "https://www.speedinvest.com/team-members/aryan-bhargove",
+        "https://www.speedinvest.com/team-members/augustine-groebacher-chen",
+        "https://www.speedinvest.com/team-members/callum-burroughs",
+        "https://www.speedinvest.com/team-members/cecilia-hoyos",
+        "https://www.speedinvest.com/team-members/daniel-keiper-knorr",
+        "https://www.speedinvest.com/team-members/daria-gherghelas",
+        "https://www.speedinvest.com/team-members/deepali-nangia",
+        "https://www.speedinvest.com/team-members/edmundo-pichardo",
+        "https://www.speedinvest.com/team-members/estelle-salomon",
+        "https://www.speedinvest.com/team-members/florian-obst",
+        "https://www.speedinvest.com/team-members/frederik-hagenauer",
+        "https://www.speedinvest.com/team-members/heinrich-groller",
+        "https://www.speedinvest.com/team-members/hugues-le-maire",
+        "https://www.speedinvest.com/team-members/ioanna-chrysanthou",
+        "https://www.speedinvest.com/team-members/jeremy-crider",
+        "https://www.speedinvest.com/team-members/jeroen-arts",
+        "https://www.speedinvest.com/team-members/julie-forel",
+        "https://www.speedinvest.com/team-members/julien-leze",
+        "https://www.speedinvest.com/team-members/laurens-w-a-asamoah",
+        "https://www.speedinvest.com/team-members/lawrence-kilian",
+        "https://www.speedinvest.com/team-members/liam-mccombe",
+        "https://www.speedinvest.com/team-members/lorenz-marek",
+        "https://www.speedinvest.com/team-members/lukas-slameczka",
+        "https://www.speedinvest.com/team-members/lukas-steindl",
+        "https://www.speedinvest.com/team-members/marie-helene-ametsreiter",
+        "https://www.speedinvest.com/team-members/markus-lang",
+        "https://www.speedinvest.com/team-members/martin-laure",
+        "https://www.speedinvest.com/team-members/mathilde-valin",
+        "https://www.speedinvest.com/team-members/may-britt-mohnke",
+        "https://www.speedinvest.com/team-members/melanie-repolust",
+        "https://www.speedinvest.com/team-members/miriam-feyer",
+        "https://www.speedinvest.com/team-members/nina-ehrenreich",
+        "https://www.speedinvest.com/team-members/nora-frizberg",
+        "https://www.speedinvest.com/team-members/oliver-holle",
+        "https://www.speedinvest.com/team-members/patricia-raducan",
+        "https://www.speedinvest.com/team-members/paula-schumacher",
+        "https://www.speedinvest.com/team-members/philipp-stangl",
+        "https://www.speedinvest.com/team-members/rana-abdel-latif",
+        "https://www.speedinvest.com/team-members/ranka-teodorovic-milasin",
+        "https://www.speedinvest.com/team-members/robert-lang",
+        "https://www.speedinvest.com/team-members/sameer-singh",
+        "https://www.speedinvest.com/team-members/simone-stasi",
+        "https://www.speedinvest.com/team-members/stefan-klestil",
+        "https://www.speedinvest.com/team-members/szabina-szogyi",
+        "https://www.speedinvest.com/team-members/tara-scholler-burke",
+        "https://www.speedinvest.com/team-members/tom-f-lesche",
+        "https://www.speedinvest.com/team-members/tyrza-nanlohij",
+        "https://www.speedinvest.com/team-members/valerii-mikheev",
+        "https://www.speedinvest.com/team-members/varun-rekhi",
+        "https://www.speedinvest.com/team-members/vince-stampay-komesz",
+        "https://www.speedinvest.com/team-members/werner-zahnt",
+        "https://www.speedinvest.com/team-members/will-wells",
+        "https://www.speedinvest.com/team-members/wissam-nasreddine",
+        "https://www.speedinvest.com/team-members/young-sohn",
+        "https://www.speedinvest.com/team-members/zaya-mandakhbayar"
       ],
       "checked_pages": [
         "https://www.speedinvest.com/",
-        "https://www.speedinvest.com/portfolio"
+        "https://www.speedinvest.com/portfolio",
+        "https://www.speedinvest.com/team"
       ],
       "sources": [
         "https://www.speedinvest.com/",
-        "https://www.speedinvest.com/portfolio"
+        "https://www.speedinvest.com/portfolio",
+        "https://www.speedinvest.com/team"
       ],
       "errors": [
-        "https://www.speedinvest.com/kontakt/: HTTP Error 404: Not Found",
         "https://www.speedinvest.com/contact/: HTTP Error 404: Not Found",
         "https://www.speedinvest.com/apply/: HTTP Error 404: Not Found"
       ],
@@ -1817,16 +1668,16 @@
       "phones": [],
       "linkedin": [
         "https://www.linkedin.com/company/smok-ventures/",
-        "https://www.linkedin.com/in/dianakoziarska/"
+        "https://www.linkedin.com/in/tomaszbednarski/"
       ],
       "facebook": [
-        "https://www.facebook.com/koziarskadiana/",
+        "https://www.facebook.com/Tomasz.m.bednarski",
         "https://www.facebook.com/smokventures/"
       ],
       "whatsapp": [],
       "other_socials": [
-        "https://twitter.com/dianakoziarska",
         "https://twitter.com/smokvc",
+        "https://twitter.com/tomek_bednarski",
         "https://www.youtube.com/watch?v=L16AdRTbHwk"
       ],
       "forms": [
@@ -1848,34 +1699,27 @@
       ],
       "checked_pages": [
         "https://www.smok.vc/",
-        "https://www.smok.vc/contact-us/",
-        "https://www.smok.vc/portfolios/principle/",
-        "https://www.smok.vc/team/diana-koziarska/",
+        "https://www.smok.vc/portfolios/pstryk/",
+        "https://www.smok.vc/team/tomasz-bednarski/",
         "https://www.smok.vc/top-pre-seed-vc-investors-worth-pitching-in-poland-2026/"
       ],
       "sources": [
         "https://www.smok.vc/",
-        "https://www.smok.vc/contact-us/",
-        "https://www.smok.vc/portfolios/principle/",
-        "https://www.smok.vc/team/diana-koziarska/",
+        "https://www.smok.vc/portfolios/pstryk/",
+        "https://www.smok.vc/team/tomasz-bednarski/",
         "https://www.smok.vc/top-pre-seed-vc-investors-worth-pitching-in-poland-2026/"
       ],
-      "errors": [],
+      "errors": [
+        "https://www.smok.vc/apply: HTTP Error 404: Not Found"
+      ],
       "notes": []
     },
     {
       "name": "Index Ventures",
       "query": "Index Ventures Jan Hammer Czech Productboard Rohlik",
       "official_url": "https://www.indexventures.com/",
-      "emails": [
-        "press@indexventures.com"
-      ],
-      "phones": [
-        "+1 415 471 1700",
-        "+41 22 737 0000",
-        "+44 1534 833 404",
-        "+44 20 7154 2020"
-      ],
+      "emails": [],
+      "phones": [],
       "linkedin": [
         "https://www.linkedin.com/company/index-ventures"
       ],
@@ -1888,19 +1732,68 @@
         "https://www.indexventures.com/contact-us/"
       ],
       "people_pages": [
-        "https://www.indexventures.com/team/"
+        "https://www.indexventures.com/team/",
+        "https://www.indexventures.com/team/adrianna-ma/",
+        "https://www.indexventures.com/team/ali-fisher-sweet/",
+        "https://www.indexventures.com/team/ana-andreescu/",
+        "https://www.indexventures.com/team/andre-dubois/",
+        "https://www.indexventures.com/team/avron-marcus/",
+        "https://www.indexventures.com/team/bastian-hasslinger/",
+        "https://www.indexventures.com/team/brendan-boyle/",
+        "https://www.indexventures.com/team/carleigh-morba/",
+        "https://www.indexventures.com/team/carlos-gonzalez-cadenas/",
+        "https://www.indexventures.com/team/dan-fougere/",
+        "https://www.indexventures.com/team/danny-rimer/",
+        "https://www.indexventures.com/team/emil-schaefer/",
+        "https://www.indexventures.com/team/eryk-dobrushkin/",
+        "https://www.indexventures.com/team/georgia-stevenson/",
+        "https://www.indexventures.com/team/hannah-seal/",
+        "https://www.indexventures.com/team/hunter-mcnabb/",
+        "https://www.indexventures.com/team/isaiah-baril-dore/",
+        "https://www.indexventures.com/team/jacob-jofe/",
+        "https://www.indexventures.com/team/jahanvi-sardana/",
+        "https://www.indexventures.com/team/jan-hammer/",
+        "https://www.indexventures.com/team/joseph-stolerman/",
+        "https://www.indexventures.com/team/julia-andre/",
+        "https://www.indexventures.com/team/juriaan-duizendstraal/",
+        "https://www.indexventures.com/team/katie-scherer/",
+        "https://www.indexventures.com/team/katy-engle/",
+        "https://www.indexventures.com/team/kelly-barton/",
+        "https://www.indexventures.com/team/kelsey-miller/",
+        "https://www.indexventures.com/team/khalehla-nuzum/",
+        "https://www.indexventures.com/team/mark-xu/",
+        "https://www.indexventures.com/team/martin-mignot/",
+        "https://www.indexventures.com/team/michelle-fernandes/",
+        "https://www.indexventures.com/team/myles-gutenkunst/",
+        "https://www.indexventures.com/team/neil-rimer/",
+        "https://www.indexventures.com/team/nina-achadjian/",
+        "https://www.indexventures.com/team/nina-gerson/",
+        "https://www.indexventures.com/team/rebecca-james/",
+        "https://www.indexventures.com/team/sahir-azam/",
+        "https://www.indexventures.com/team/sandra-schwarzer/",
+        "https://www.indexventures.com/team/shardul-shah/",
+        "https://www.indexventures.com/team/simon-cunningham/",
+        "https://www.indexventures.com/team/simon-pastor/",
+        "https://www.indexventures.com/team/sofia-dolfe/",
+        "https://www.indexventures.com/team/stephane-kurgan/",
+        "https://www.indexventures.com/team/sujata-bhatia/",
+        "https://www.indexventures.com/team/susana-rojas/",
+        "https://www.indexventures.com/team/thea-crawshaw/",
+        "https://www.indexventures.com/team/vlad-loktev/",
+        "https://www.indexventures.com/team/weronika-sowa/",
+        "https://www.indexventures.com/team/zack-urlocker/"
       ],
       "checked_pages": [
         "https://www.indexventures.com/",
-        "https://www.indexventures.com/contact-us/"
+        "https://www.indexventures.com/team/"
       ],
       "sources": [
         "https://www.indexventures.com/",
-        "https://www.indexventures.com/contact-us/"
+        "https://www.indexventures.com/team/"
       ],
       "errors": [
-        "https://www.indexventures.com/contact: HTTP Error 404: Not Found",
-        "https://www.indexventures.com/apply: HTTP Error 404: Not Found"
+        "https://www.indexventures.com/apply/: HTTP Error 404: Not Found",
+        "https://www.indexventures.com/contact/: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -1920,10 +1813,9 @@
       "sources": [],
       "errors": [
         "https://atomico.com/: HTTP Error 429: Too Many Requests",
-        "https://atomico.com/team: HTTP Error 429: Too Many Requests",
+        "https://atomico.com/kontakt: HTTP Error 429: Too Many Requests",
         "https://atomico.com/team/: HTTP Error 429: Too Many Requests",
-        "https://atomico.com/contact/: HTTP Error 429: Too Many Requests",
-        "https://atomico.com/kontakt/: HTTP Error 429: Too Many Requests"
+        "https://atomico.com/contact/: HTTP Error 429: Too Many Requests"
       ],
       "notes": [
         "No public direct contact channel found on checked official pages."
@@ -1935,34 +1827,29 @@
       "official_url": "https://earlybird.com/",
       "emails": [],
       "phones": [],
-      "linkedin": [
-        "https://www.linkedin.com/company/earlybird-venture-capital"
-      ],
+      "linkedin": [],
       "facebook": [],
       "whatsapp": [],
-      "other_socials": [
-        "https://www.instagram.com/earlybirdvc/?hl=en",
-        "https://x.com/EarlybirdVC"
-      ],
-      "forms": [
-        "https://earlybird.com/contact-us"
-      ],
+      "other_socials": [],
+      "forms": [],
       "people_pages": [
         "https://earlybird.com/about-us"
       ],
       "checked_pages": [
-        "https://earlybird.com/",
-        "https://earlybird.com/about-us"
+        "https://earlybird.com/"
       ],
       "sources": [
-        "https://earlybird.com/",
-        "https://earlybird.com/about-us"
+        "https://earlybird.com/"
       ],
       "errors": [
-        "https://earlybird.com/kontakt: HTTP Error 404: Not Found",
-        "https://earlybird.com/apply: HTTP Error 404: Not Found"
+        "https://earlybird.com/contact: HTTP Error 404: Not Found",
+        "https://earlybird.com/contact/: HTTP Error 404: Not Found",
+        "https://earlybird.com/apply/: HTTP Error 404: Not Found",
+        "https://earlybird.com/kontakt/: HTTP Error 404: Not Found"
       ],
-      "notes": []
+      "notes": [
+        "No public direct contact channel found on checked official pages."
+      ]
     },
     {
       "name": "ABB Technology Ventures",
@@ -1995,8 +1882,8 @@
       ],
       "errors": [
         "https://www.abb.com/team: HTTP Error 404: Not Found",
-        "https://www.abb.com/kontakt: HTTP Error 404: Not Found",
-        "https://www.abb.com/apply/: HTTP Error 404: Not Found"
+        "https://www.abb.com/apply: HTTP Error 404: Not Found",
+        "https://www.abb.com/team/: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -2016,22 +1903,23 @@
       "other_socials": [],
       "forms": [
         "https://www.vsharp.vc/apply",
-        "https://www.vsharp.vc/contact"
+        "https://www.vsharp.vc/contact",
+        "https://www.vsharp.vc/contact/"
       ],
-      "people_pages": [
-        "https://www.vsharp.vc/team/"
-      ],
+      "people_pages": [],
       "checked_pages": [
         "https://www.vsharp.vc/",
         "https://www.vsharp.vc/apply",
         "https://www.vsharp.vc/contact",
-        "https://www.vsharp.vc/team/"
+        "https://www.vsharp.vc/contact/",
+        "https://www.vsharp.vc/kontakt"
       ],
       "sources": [
         "https://www.vsharp.vc/",
         "https://www.vsharp.vc/apply",
         "https://www.vsharp.vc/contact",
-        "https://www.vsharp.vc/team/"
+        "https://www.vsharp.vc/contact/",
+        "https://www.vsharp.vc/kontakt"
       ],
       "errors": [],
       "notes": []
@@ -2068,7 +1956,6 @@
         "https://airventures.eu/wp-content/plugins/wpb-portfolio/inc/../assets/css/hover-effects.css?ver=1.0"
       ],
       "errors": [
-        "https://airventures.eu/contact/: HTTP Error 404: Not Found",
         "https://airventures.eu/kontakt/: HTTP Error 404: Not Found"
       ],
       "notes": []
@@ -2103,20 +1990,19 @@
       "name": "Neulogy Ventures",
       "query": "Neulogy Ventures Slovakia Czech portfolio",
       "official_url": "https://neulogy.vc/",
-      "emails": [
-        "info@neulogy.vc"
-      ],
+      "emails": [],
       "phones": [],
       "linkedin": [
-        "https://sk.linkedin.com/in/martinzahuranec",
+        "https://sk.linkedin.com/in/ivanklimek",
+        "https://sk.linkedin.com/in/peter-badik-a707383",
+        "https://www.linkedin.com/company/anvesana/about/",
         "https://www.linkedin.com/company/neulogy-ventures/",
         "https://www.linkedin.com/in/christianmandl/",
-        "https://www.linkedin.com/in/eranschaert",
+        "https://www.linkedin.com/in/eric-ekland/",
+        "https://www.linkedin.com/in/ivanklimek/?originalSubdomain=sk",
         "https://www.linkedin.com/in/jaroslav-lupt%C3%A1k-4a67778/",
-        "https://www.linkedin.com/in/lukasalner",
-        "https://www.linkedin.com/in/lukasalner/",
-        "https://www.linkedin.com/in/martinzahuranec/",
-        "https://www.linkedin.com/in/yassamanomidbakhsh/"
+        "https://www.linkedin.com/in/miroslavhachlinec/",
+        "https://www.linkedin.com/in/peter-badik-a707383/"
       ],
       "facebook": [
         "https://www.facebook.com/NeulogyVentures"
@@ -2164,17 +2050,17 @@
       ],
       "checked_pages": [
         "https://neulogy.vc/",
-        "https://neulogy.vc/contact/",
-        "https://neulogy.vc/portfolio/diagnose-me/",
-        "https://neulogy.vc/portfolio/eyerim/",
-        "https://neulogy.vc/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.1"
+        "https://neulogy.vc/portfolio/anvesana/",
+        "https://neulogy.vc/portfolio/beit/",
+        "https://neulogy.vc/portfolio/excalibur/",
+        "https://neulogy.vc/portfolio/greenway/"
       ],
       "sources": [
         "https://neulogy.vc/",
-        "https://neulogy.vc/contact/",
-        "https://neulogy.vc/portfolio/diagnose-me/",
-        "https://neulogy.vc/portfolio/eyerim/",
-        "https://neulogy.vc/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.1"
+        "https://neulogy.vc/portfolio/anvesana/",
+        "https://neulogy.vc/portfolio/beit/",
+        "https://neulogy.vc/portfolio/excalibur/",
+        "https://neulogy.vc/portfolio/greenway/"
       ],
       "errors": [],
       "notes": []
@@ -2193,23 +2079,7 @@
       ],
       "facebook": [],
       "whatsapp": [],
-      "other_socials": [
-        "https://www.crunchbase.com/organization/armorize",
-        "https://www.crunchbase.com/organization/blip",
-        "https://www.crunchbase.com/organization/clifton",
-        "https://www.crunchbase.com/organization/ecofleet-eesti-oÜ",
-        "https://www.crunchbase.com/organization/flowplay",
-        "https://www.crunchbase.com/organization/guardtime",
-        "https://www.crunchbase.com/organization/logonex",
-        "https://www.crunchbase.com/organization/markit-80b8",
-        "https://www.crunchbase.com/organization/mendeley",
-        "https://www.crunchbase.com/organization/modesat",
-        "https://www.crunchbase.com/organization/myheritage",
-        "https://www.crunchbase.com/organization/pryte",
-        "https://www.crunchbase.com/organization/senseg",
-        "https://www.crunchbase.com/organization/treatwell-nl",
-        "https://www.crunchbase.com/organization/uros"
-      ],
+      "other_socials": [],
       "forms": [
         "https://www.karma.vc/contact"
       ],
@@ -2227,7 +2097,8 @@
         "https://www.karma.vc/portfolio"
       ],
       "errors": [
-        "https://www.karma.vc/apply: HTTP Error 404: Not Found"
+        "https://www.karma.vc/kontakt/: HTTP Error 404: Not Found",
+        "https://www.karma.vc/apply/: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -2361,7 +2232,8 @@
         "https://www.moc.vc/portfolio"
       ],
       "errors": [
-        "https://www.moc.vc/kontakt/: HTTP Error 404: Not Found",
+        "https://www.moc.vc/kontakt: HTTP Error 404: Not Found",
+        "https://www.moc.vc/contact: HTTP Error 404: Not Found",
         "https://www.moc.vc/apply/: HTTP Error 404: Not Found"
       ],
       "notes": []
@@ -2399,7 +2271,7 @@
         "https://www.filrougecapital.com/portfolio"
       ],
       "errors": [
-        "https://www.filrougecapital.com/kontakt: HTTP Error 404: Not Found",
+        "https://www.filrougecapital.com/apply/: HTTP Error 404: Not Found",
         "https://www.filrougecapital.com/kontakt/: HTTP Error 404: Not Found"
       ],
       "notes": []
@@ -2430,9 +2302,8 @@
         "https://www.genesis.cz/kontakt"
       ],
       "errors": [
-        "https://www.genesis.cz/apply: HTTP Error 500: Internal Server Error",
         "https://www.genesis.cz/team: HTTP Error 500: Internal Server Error",
-        "https://www.genesis.cz/apply/: HTTP Error 500: Internal Server Error"
+        "https://www.genesis.cz/team/: HTTP Error 500: Internal Server Error"
       ],
       "notes": []
     },
@@ -2463,13 +2334,11 @@
       "checked_pages": [
         "https://www.arxequity.com/",
         "https://www.arxequity.com/contact/",
-        "https://www.arxequity.com/pl/kontakt/",
         "https://www.arxequity.com/team/"
       ],
       "sources": [
         "https://www.arxequity.com/",
         "https://www.arxequity.com/contact/",
-        "https://www.arxequity.com/pl/kontakt/",
         "https://www.arxequity.com/team/"
       ],
       "errors": [
@@ -2481,7 +2350,9 @@
       "name": "Mid Europa Partners",
       "query": "Mid Europa Partners Czech office private equity technology",
       "official_url": "https://www.mideuropa.com/",
-      "emails": [],
+      "emails": [
+        "mideuropa@citigatedewerogerson.com"
+      ],
       "phones": [],
       "linkedin": [
         "https://www.linkedin.com/company/mid-europa-partners"
@@ -2501,17 +2372,17 @@
       ],
       "checked_pages": [
         "https://mideuropa.com/",
-        "https://mideuropa.com/about/sectors/",
+        "https://mideuropa.com/media-contacts/",
         "https://mideuropa.com/sustainability/our-portfolio/"
       ],
       "sources": [
         "https://mideuropa.com/",
-        "https://mideuropa.com/about/sectors/",
+        "https://mideuropa.com/media-contacts/",
         "https://mideuropa.com/sustainability/our-portfolio/"
       ],
       "errors": [
-        "https://mideuropa.com/kontakt/: HTTP Error 404: Not Found",
-        "https://mideuropa.com/contact/: HTTP Error 404: Not Found"
+        "https://mideuropa.com/apply/: HTTP Error 404: Not Found",
+        "https://mideuropa.com/kontakt: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -2532,19 +2403,21 @@
       "other_socials": [],
       "forms": [],
       "people_pages": [
+        "https://hartenbergcapital.com/team",
         "https://www.hartenbergcapital.com/about",
         "https://www.hartenbergcapital.com/team"
       ],
       "checked_pages": [
-        "https://www.hartenbergcapital.com/"
+        "https://www.hartenbergcapital.com/",
+        "https://www.hartenbergcapital.com/team"
       ],
       "sources": [
-        "https://www.hartenbergcapital.com/"
+        "https://www.hartenbergcapital.com/",
+        "https://www.hartenbergcapital.com/team"
       ],
       "errors": [
-        "https://www.hartenbergcapital.com/contact/: HTTP Error 404: Not Found",
-        "https://www.hartenbergcapital.com/kontakt: HTTP Error 404: Not Found",
-        "https://www.hartenbergcapital.com/apply/: HTTP Error 404: Not Found"
+        "https://www.hartenbergcapital.com/apply: HTTP Error 404: Not Found",
+        "https://www.hartenbergcapital.com/kontakt/: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -2570,7 +2443,6 @@
       ],
       "errors": [
         "https://r2g.cz/team: HTTP Error 404: Not Found",
-        "https://r2g.cz/team/: HTTP Error 404: Not Found",
         "https://r2g.cz/apply/: HTTP Error 404: Not Found"
       ],
       "notes": [
@@ -2583,7 +2455,6 @@
       "official_url": "https://www.ppf.eu/",
       "emails": [
         "apply@clear.bank",
-        "images@ppf.cz",
         "info@airbank.cz",
         "info@akcieo2.cz",
         "info@cetin.cz",
@@ -2597,20 +2468,14 @@
         "info@ppfrealholding.com",
         "info@tanemo.eu",
         "lagner@ppf.cz",
-        "media@ppf.eu",
         "officebanka@yettelbank.rs",
         "partnering@sctbio.com",
-        "rousek@ppf.cz",
         "sales@embedit.com",
         "sotio@sotio.com",
         "transportation@skoda.cz",
-        "u003eimages@ppf.cz",
-        "u003einfo@tanemo.eu",
-        "u003emedia@ppf.eu"
+        "u003einfo@tanemo.eu"
       ],
       "phones": [
-        "+ 420 224 174 214",
-        "+ 420 224 174 610",
         "+31208813120",
         "+420 222 244 255",
         "+420 224 174 555",
@@ -2622,7 +2487,6 @@
         "+420 224 175 980",
         "+420 238 461 111",
         "+420222244255",
-        "+420224174214",
         "+420224174555",
         "+420224174777",
         "+420224175100",
@@ -2641,19 +2505,21 @@
       "forms": [
         "https://www.ppf.eu/api/switch-locale?locale=en&url=contacts"
       ],
-      "people_pages": [],
+      "people_pages": [
+        "https://www.ppf.eu/api/switch-locale?locale=en&url=about-the-ppf-group%2Fabout-us"
+      ],
       "checked_pages": [
         "https://www.ppf.eu/",
         "https://www.ppf.eu/kontakty",
-        "https://www.ppf.eu/pro-media/kontakt-pro-media"
+        "https://www.ppf.eu/o-skupine-ppf/o-nas"
       ],
       "sources": [
         "https://www.ppf.eu/",
         "https://www.ppf.eu/kontakty",
-        "https://www.ppf.eu/pro-media/kontakt-pro-media"
+        "https://www.ppf.eu/o-skupine-ppf/o-nas"
       ],
       "errors": [
-        "https://www.ppf.eu/team: HTTP Error 404: Not Found"
+        "https://www.ppf.eu/team/: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -2661,12 +2527,16 @@
       "name": "Penta Investments",
       "query": "Penta Investments Czech private equity portfolio",
       "official_url": "https://www.pentainvestments.com/",
-      "emails": [],
+      "emails": [
+        "hr@pentainvestments.com",
+        "smartdeal@smartdeal.eu"
+      ],
       "phones": [
         "+35725733104",
         "+35725733135",
         "+420 225 101 102",
         "+420 225 101 110",
+        "+420 225 101 160",
         "+420 704 851 348",
         "+420225101110",
         "+420225101160",
@@ -2698,15 +2568,16 @@
       ],
       "checked_pages": [
         "https://www.pentainvestments.com/en/",
+        "https://www.pentainvestments.com/en/about-us/",
         "https://www.pentainvestments.com/en/contacts/"
       ],
       "sources": [
         "https://www.pentainvestments.com/en/",
+        "https://www.pentainvestments.com/en/about-us/",
         "https://www.pentainvestments.com/en/contacts/"
       ],
       "errors": [
-        "https://www.pentainvestments.com/apply: HTTP Error 404: Not Found",
-        "https://www.pentainvestments.com/apply/: HTTP Error 404: Not Found"
+        "https://www.pentainvestments.com/apply: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -2744,9 +2615,7 @@
         "https://www.espirainvestments.com/team/"
       ],
       "errors": [
-        "https://www.espirainvestments.com/kontakt/: HTTP Error 404: Not Found",
-        "https://www.espirainvestments.com/kontakt: HTTP Error 404: Not Found",
-        "https://www.espirainvestments.com/apply: HTTP Error 404: Not Found"
+        "https://www.espirainvestments.com/kontakt: HTTP Error 404: Not Found"
       ],
       "notes": []
     },
@@ -2758,56 +2627,35 @@
         "info@nrb.cz"
       ],
       "phones": [
-        "+420255721111",
         "255 721 111",
-        "255 721 199",
-        "255721111",
-        "255721199",
-        "378 775 199",
-        "378775199",
-        "498 774 199",
-        "498774199",
-        "538 702 199",
-        "538702199",
-        "597 583 199",
-        "597583199",
-        "705 789 036",
-        "705 789 038",
-        "705789036",
-        "705789038"
+        "255721111"
       ],
       "linkedin": [
-        "https://www.linkedin.com/company/nrbcz/",
-        "https://www.linkedin.com/cws/share?url=https://www.nrb.cz/pribehy/kontaktni-systemy-firmy-hronovsky-se-montuji-do-aut-temer-po-celem-svete/"
+        "https://www.linkedin.com/company/nrbcz/"
       ],
       "facebook": [
-        "https://www.facebook.com/NRBCZ",
-        "https://www.facebook.com/sharer/sharer.php?u=https://www.nrb.cz/pribehy/kontaktni-systemy-firmy-hronovsky-se-montuji-do-aut-temer-po-celem-svete/"
+        "https://www.facebook.com/NRBCZ"
       ],
       "whatsapp": [],
       "other_socials": [
         "https://twitter.com/NRBCZ",
-        "https://twitter.com/home?status=https://www.nrb.cz/pribehy/kontaktni-systemy-firmy-hronovsky-se-montuji-do-aut-temer-po-celem-svete/",
         "https://www.youtube.com",
         "https://www.youtube.com/channel/UCmDn5B_53LvDDtIi91THS0w"
       ],
       "forms": [],
       "people_pages": [],
       "checked_pages": [
-        "https://www.nrb.cz/",
-        "https://www.nrb.cz/kontakty/",
-        "https://www.nrb.cz/o-nas/o-nrb/",
-        "https://www.nrb.cz/pribehy/kontaktni-systemy-firmy-hronovsky-se-montuji-do-aut-temer-po-celem-svete/",
-        "https://www.nrb.cz/wp-content/uploads/2018/10/team.svg"
+        "https://www.nrb.cz/"
       ],
       "sources": [
-        "https://www.nrb.cz/",
-        "https://www.nrb.cz/kontakty/",
-        "https://www.nrb.cz/o-nas/o-nrb/",
-        "https://www.nrb.cz/pribehy/kontaktni-systemy-firmy-hronovsky-se-montuji-do-aut-temer-po-celem-svete/",
-        "https://www.nrb.cz/wp-content/uploads/2018/10/team.svg"
+        "https://www.nrb.cz/"
       ],
-      "errors": [],
+      "errors": [
+        "https://www.nrb.cz/apply/: The read operation timed out",
+        "https://www.nrb.cz/kontakty/: The read operation timed out",
+        "https://www.nrb.cz/team/: The read operation timed out",
+        "https://www.nrb.cz/contact: The read operation timed out"
+      ],
       "notes": []
     },
     {
@@ -2819,7 +2667,8 @@
       ],
       "phones": [],
       "linkedin": [
-        "https://www.linkedin.com/company/european-investment-fund/"
+        "https://www.linkedin.com/company/european-investment-fund/",
+        "https://www.linkedin.com/posts/european-investment-fund_skills-education-investeu-activity-7450070828605399040-WlBQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACbpO5IBBj62quLcSHF9Fskc-_l9CnoDV9o"
       ],
       "facebook": [],
       "whatsapp": [],
@@ -2843,18 +2692,17 @@
       ],
       "checked_pages": [
         "https://www.eif.org/",
-        "https://www.eif.org/_nuxt/PublicationAbout.DQhfk2Rf.css",
-        "https://www.eif.org/about-us/awards",
-        "https://www.eif.org/about-us/leadership-and-people"
+        "https://www.eif.org/about-us/leadership-and-people",
+        "https://www.eif.org/about-us/we-are-the-eif"
       ],
       "sources": [
         "https://www.eif.org/",
-        "https://www.eif.org/_nuxt/PublicationAbout.DQhfk2Rf.css",
-        "https://www.eif.org/about-us/awards",
-        "https://www.eif.org/about-us/leadership-and-people"
+        "https://www.eif.org/about-us/leadership-and-people",
+        "https://www.eif.org/about-us/we-are-the-eif"
       ],
       "errors": [
-        "https://www.eif.org/apply/: HTTP Error 404: Not Found"
+        "https://www.eif.org/kontakt: HTTP Error 404: Not Found",
+        "https://www.eif.org/apply: HTTP Error 404: Not Found"
       ],
       "notes": []
     }
